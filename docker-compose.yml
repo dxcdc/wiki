@@ -1,0 +1,46 @@
+
+
+services:
+  wiki:
+    image: gttransformadigital/wiki:1.0
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: wiki-app
+    restart: always
+    environment:
+      DB_TYPE: postgres
+      DB_HOST: db
+      DB_PORT: 5432
+      DB_USER: wiki
+      DB_PASS: ${DB_PASS}
+      DB_NAME: wikidb
+    ports:
+      - "3000:3000"
+    depends_on:
+      db:
+        condition: service_healthy
+    networks:
+      - wiki-net
+
+  db:
+    image: postgres:16.4-alpine
+    container_name: wiki-db
+    restart: always
+    environment:
+      POSTGRES_USER: wiki
+      POSTGRES_PASSWORD: ${DB_PASS}
+      POSTGRES_DB: wikidb
+    volumes:
+      - ./data/db:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U wiki -d wikidb"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+    networks:
+      - wiki-net
+
+networks:
+  wiki-net:
+    driver: bridge

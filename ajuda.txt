@@ -1,0 +1,41 @@
+========================================================================
+GUIA DE OPERAÇÃO DO WIKI.JS - CDC INFRA
+========================================================================
+
+Este diretório contém a infraestrutura em Docker para o Wiki.js integrado
+com PostgreSQL, seguindo o padrão DevOps da ONG.
+
+Arquivos de Infraestrutura:
+-------------------------
+- Dockerfile: Herda de requarks/wiki:2.5 e compila localmente.
+- docker-compose.yml: Orquestração do Wiki.js e Banco PostgreSQL.
+- .env: Arquivo local com credenciais privadas (não versionado).
+- .env.example: Modelo para criação do arquivo .env.
+
+Como Iniciar o Serviço:
+----------------------
+1. Copie o .env.example para .env:
+   $ cp .env.example .env
+
+2. Ajuste a senha de banco de dados no arquivo .env (variável DB_PASS).
+
+3. Construa a imagem localmente e inicie os containers:
+   $ docker-compose up -d --build
+
+Alertas de Portas e VPS (Importante!):
+------------------------------------
+- O Wiki.js está configurado para publicar a porta 3000 no host.
+- Caso a porta 3000 já esteja ocupada ou bloqueada no firewall da VPS,
+  ajuste o mapeamento no docker-compose.yml ou configure o Proxy Reverso
+  para apontar para http://localhost:3000.
+- O banco PostgreSQL NÃO publica portas no host para garantir segurança,
+  comunicando-se apenas via rede interna virtual (wiki-net).
+
+Processos de Inicialização Difíceis & Troubleshooting:
+------------------------------------------------------
+- Na primeira inicialização, o PostgreSQL pode levar alguns segundos para
+  criar o schema de banco. O Wiki.js aguardará até o banco estar saudável
+  através de uma regra de healthcheck no docker-compose.yml.
+- Para verificar logs em tempo real e diagnosticar problemas:
+   $ docker-compose logs -f
+========================================================================
