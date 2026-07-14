@@ -126,6 +126,7 @@ flowchart TD
 - [Troubleshooting](file:///home/vier/Documentos/Code/CDC/wiki/docs/troubleshooting.md) — Guia de depuração rápida para contêineres, erros de banco de dados, emails e redes.
 - [Política de backup](file:///home/vier/Documentos/Code/CDC/wiki/docs/politica_backup.md) — Modelo 3-2-1, script automatizado e guia de restore do banco de dados.
 - [Contexto para IA](file:///home/vier/Documentos/Code/CDC/wiki/docs/prompt_ia.md) — Prompt unificado de contexto de projeto para assistentes de Inteligência Artificial.
+- [Plano de personalização](file:///home/vier/Documentos/Code/CDC/wiki/docs/plano_personalizacao.md) — Roteiro de identidade visual, integrações de autenticação (SSO), mídias (S3) e Git.
 
 ---
 
