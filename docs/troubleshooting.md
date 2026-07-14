@@ -23,14 +23,14 @@ Este documento centraliza as ocorrências de problemas técnicos mais comuns no 
 
 ---
 
-### Ocorrência 1.2: Porta 3000 já ocupada no host (Collision)
-- **Sintoma:** O Docker Compose falha ao subir o container com erro `bind: address already in use`.
-- **Possível Causa:** Outro serviço na VPS está utilizando a porta 3000.
-- **Diagnóstico:** Verifique qual processo está escutando na porta 3000 do host:
+### Ocorrência 1.2: Porta de host ocupada (Collision)
+- **Sintoma:** O Docker Compose falha ao subir o container com erro `bind: address already in use` na porta 3009 ou configurada.
+- **Possível Causa:** Outro serviço na VPS está utilizando a porta padrão 3009 (ou a selecionada em `WIKI_PORT`).
+- **Diagnóstico:** Verifique qual processo está escutando na porta conflitante (ex: 3009):
   ```bash
-  sudo ss -tulpn | grep :3000
+  sudo ss -tulpn | grep :3009
   ```
-- **Correção:** Altere a porta mapeada externamente no `docker-compose.yml` (ex: de `"3000:3000"` para `"3001:3000"`) ou mate o processo conflitante se for órfão.
+- **Correção:** Defina a variável de ambiente `WIKI_PORT` no `.env` ou no painel do Easypanel para um valor de porta livre (ex: `3010`), sem a necessidade de editar o `docker-compose.yml` diretamente.
 - **Validação:** Suba o contêiner e certifique-se de que iniciou com sucesso.
 
 ---
@@ -202,15 +202,16 @@ Siga rigorosamente estes passos em ordem para diagnosticar e mitigar uma queda d
    ```
 5. **Verificar se as portas de escuta estão ativas no host:**
    ```bash
-   sudo ss -tulpn | grep -E '3000|80|443'
+   sudo ss -tulpn | grep -E '3009|80|443'
    ```
 6. **Verificar a integridade do banco de dados PostgreSQL:**
    ```bash
-   docker compose exec db pg_isready -U wiki -d wikidb
+   # Carrega as variáveis e testa o status de conectividade do postgres
+   docker compose exec db pg_isready -U "${DB_USER:-wiki}" -d "${DB_NAME:-wikidb}"
    ```
 7. **Testar conectividade local com a porta do Wiki.js:**
    ```bash
-   curl -I http://localhost:3000
+   curl -I http://localhost:3009
    ```
 8. **Testar disparo de alertas para comunicação interna:**
    Testar envio de status para o canal de alertas no Mattermost.

@@ -217,7 +217,7 @@ Status: Sincronização e validações realizadas com sucesso no novo servidor. 
 ## Validação pós-migração
 
 Após subir o serviço na nova VPS, execute este roteiro técnico de homologação:
-1. **Verificação de Rede:** Testar se o Wiki.js está respondendo na porta mapeada (ex: `curl -I http://localhost:3000`).
+1. **Verificação de Rede:** Testar se o Wiki.js está respondendo na porta mapeada (ex: `curl -I http://localhost:3009`).
 2. **Checagem de Banco de Dados:** Acessar o sistema e validar se páginas criadas recentemente constam na listagem (garante integridade do banco).
 3. **Teste de Permissões de Upload:** Tentar realizar o upload de uma imagem em uma página de testes.
 4. **Verificação de DNS:** Garantir que o apontamento do domínio `wiki.<DOMINIO_DO_PROJETO>` aponta para o IP da nova VPS.

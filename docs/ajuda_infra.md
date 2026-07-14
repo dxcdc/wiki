@@ -9,10 +9,10 @@ Este documento detalha o desenho técnico, arquitetura de rede, segurança e con
 A arquitetura do CDC Wiki é executada sob contêineres Docker isolados, estruturada da seguinte forma:
 
 - **Aplicação (Wiki.js):** Plataforma web escrita em Node.js rodando sob a imagem customizada `gttransformadigital/wiki:1.0` (derivada da oficial `requarks/wiki:2.5`).
-- **Proxy Reverso (Host Externo):** Um servidor Nginx (ou Nginx Proxy Manager) rodando no host gerencia o tráfego externo HTTPS na porta 443, realiza o descarregamento SSL/TLS (Offloading) e encaminha o tráfego HTTP local para a porta 3000 do contêiner do Wiki.js.
+- **Proxy Reverso (Host Externo):** Um servidor Nginx (ou Nginx Proxy Manager) rodando no host gerencia o tráfego externo HTTPS na porta 443, realiza o descarregamento SSL/TLS (Offloading) e encaminha o tráfego HTTP local para a porta 3009 (ou configurada via WIKI_PORT) da VPS.
 - **Banco de Dados:** PostgreSQL (versão `16.4-alpine`) para armazenamento persistente de tabelas SQL de conteúdo.
 - **Isolamento e Comunicação:** Contêineres compartilham uma rede de ponte Docker interna privada (`wiki-net`).
-- **Persistência física:** Os dados do PostgreSQL são salvos localmente em `./data/db` no sistema de arquivos do host.
+- **Persistência física:** Os dados do PostgreSQL são salvos localmente em `./data/postgres_data` no sistema de arquivos do host.
 
 ---
 
@@ -21,8 +21,6 @@ A arquitetura do CDC Wiki é executada sob contêineres Docker isolados, estrutu
 Abaixo está o arquivo `docker-compose.yml` de referência completo do projeto:
 
 ```yaml
-version: "3.8"
-
 services:
   wiki:
     image: gttransformadigital/wiki:1.0
@@ -33,13 +31,13 @@ services:
     restart: always
     environment:
       DB_TYPE: postgres
-      DB_HOST: db
-      DB_PORT: 5432
-      DB_USER: wiki
+      DB_HOST: ${DB_HOST:-db}
+      DB_PORT: ${DB_PORT:-5432}
+      DB_USER: ${DB_USER:-wiki}
       DB_PASS: ${DB_PASS}
-      DB_NAME: wikidb
+      DB_NAME: ${DB_NAME:-wikidb}
     ports:
-      - "3000:3000"
+      - "${WIKI_PORT:-3009}:3000"
     depends_on:
       db:
         condition: service_healthy
@@ -51,18 +49,20 @@ services:
     container_name: wiki-db
     restart: always
     environment:
-      POSTGRES_USER: wiki
+      POSTGRES_USER: ${DB_USER:-wiki}
       POSTGRES_PASSWORD: ${DB_PASS}
-      POSTGRES_DB: wikidb
+      POSTGRES_DB: ${DB_NAME:-wikidb}
     volumes:
-      - ./data/db:/var/lib/postgresql/data
+      - ./data/postgres_data:/var/lib/postgresql/data
     healthcheck:
-      test: ["CMD-SHELL", "pg_isready -U wiki -d wikidb"]
+      test: ["CMD-SHELL", "pg_isready -U $${POSTGRES_USER:-wiki} -d $${POSTGRES_DB:-wikidb}"]
       interval: 10s
       timeout: 5s
       retries: 5
     networks:
-      - wiki-net
+      wiki-net:
+        aliases:
+          - cdc-ezpoint_wiki-db
 
 networks:
   wiki-net:
@@ -75,7 +75,7 @@ networks:
 
 Para mitigar superfícies de ataque, implementamos o isolamento físico/virtual das portas:
 - **Banco de Dados Isolado:** O PostgreSQL (`db`) **NÃO** expõe portas públicas no host (não possui a diretiva `ports` no docker-compose). Ele comunica-se exclusivamente com a aplicação Wiki.js através da rede bridge interna `wiki-net`.
-- **Acesso Limitado:** Apenas o container `wiki` expõe a porta `3000` localmente no host. O Proxy Reverso do host intercepta o domínio externo e redireciona localmente para a porta `3000`.
+- **Acesso Limitado:** O container `wiki` expõe por padrão a porta `3009` (ou a definida em `WIKI_PORT`) localmente no host. O Proxy Reverso do host intercepta o domínio externo e redireciona localmente para essa porta.
 
 ---
 
@@ -173,7 +173,7 @@ Abaixo está o mapeamento lógico e físico das portas do serviço:
 
 | Serviço | Porta interna | Porta externa | Protocolo | Exposição |
 | :--- | :--- | :--- | :--- | :--- |
-| `wiki-app` | 3000 | 3000 | TCP | Exposta localmente no host VPS. |
+| `wiki-app` | 3000 | 3009 (ou WIKI_PORT) | TCP | Exposta localmente no host VPS. |
 | `wiki-db` | 5432 | - | TCP | Exclusiva da rede bridge interna `wiki-net`. |
 | Nginx (Host) | - | 80 / 443 | TCP | Acessível publicamente na Internet. |
 

@@ -102,10 +102,10 @@ notify_mattermost "[INFO] Rotina de backup do CDC Wiki iniciada para o ambiente 
 
 # 3. Exportar banco PostgreSQL de forma segura (sem expor senha no CLI)
 echo "[INFO] Executando dump do banco de dados..."
-docker compose exec -e PGPASSWORD="${DB_PASS}" db pg_dump -U wiki -h localhost -d wikidb -F c -b -f /var/lib/postgresql/data/wikidb_temp.backup
+docker compose exec -e PGPASSWORD="${DB_PASS}" db pg_dump -U "${DB_USER:-wiki}" -h localhost -d "${DB_NAME:-wikidb}" -F c -b -f /var/lib/postgresql/data/wikidb_temp.backup
 
 # Move o backup de dentro do volume para nossa pasta temporária
-mv "${SCRIPT_DIR}/data/db/wikidb_temp.backup" "${TMP_DIR}/wikidb.backup"
+mv "${SCRIPT_DIR}/data/postgres_data/wikidb_temp.backup" "${TMP_DIR}/wikidb.backup"
 
 # 4. Compactar dump e configurações
 echo "[INFO] Compactando arquivos..."
@@ -203,7 +203,7 @@ Suba a infraestrutura Docker limpa do Wiki.js (conforme `docker-compose.yml` da 
 ### Passo 3: Restaurar o banco de dados PostgreSQL
 1. Envie o dump do banco (`wikidb.backup`) para dentro do volume local do PostgreSQL:
    ```bash
-   mv wikidb.backup ./data/db/wikidb_dump.backup
+   mv wikidb.backup ./data/postgres_data/wikidb_dump.backup
    ```
 2. Carregue as variáveis de ambiente:
    ```bash
@@ -211,11 +211,11 @@ Suba a infraestrutura Docker limpa do Wiki.js (conforme `docker-compose.yml` da 
    ```
 3. Execute a restauração do dump dentro do contêiner `db`:
    ```bash
-   docker compose exec -e PGPASSWORD="$DB_PASS" db pg_restore -U wiki -d wikidb --clean --verbose /var/lib/postgresql/data/wikidb_dump.backup
+   docker compose exec -e PGPASSWORD="$DB_PASS" db pg_restore -U "${DB_USER:-wiki}" -d "${DB_NAME:-wikidb}" --clean --verbose /var/lib/postgresql/data/wikidb_dump.backup
    ```
 4. Remova o arquivo de dump temporário para liberar espaço:
    ```bash
-   rm -f ./data/db/wikidb_dump.backup
+   rm -f ./data/postgres_data/wikidb_dump.backup
    ```
 
 ### Passo 4: Reiniciar os serviços

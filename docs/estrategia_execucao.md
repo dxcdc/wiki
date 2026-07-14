@@ -71,13 +71,13 @@ Trabalhamos com os seguintes ambientes lógicos:
 
 ### 1. Desenvolvimento (Ambiente Local)
 - **Objetivo:** Desenvolvimento de novos recursos, testes locais e validações rápidas.
-- **URL/Acesso:** `http://localhost:3000`
+- **URL/Acesso:** `http://localhost:3009`
 - **Banco de Dados:** PostgreSQL rodando no Docker local com dados fictícios.
 - **Segurança:** Não utilizar dumps de produção sem prévia anonimização de dados de usuários.
 
 ### 2. Homologação / Staging
 - **Objetivo:** Validar atualizações de infraestrutura e migrações de dados antes de ir para produção.
-- **URL/Acesso:** `http://<HOMOL_SERVER_IP>:3000` (ou via subdomínio privado de testes).
+- **URL/Acesso:** `http://<HOMOL_SERVER_IP>:3009` (ou via subdomínio privado de testes).
 - **Banco de Dados:** Instância isolada do PostgreSQL carregando um dump higienizado de produção.
 - **Notificações:** Alertas de build e deploy no Mattermost direcionados para `#alertas-homol`.
 

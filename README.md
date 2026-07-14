@@ -81,14 +81,14 @@ flowchart TD
    ```
 3. **Validar acesso HTTP local:**
    ```bash
-   curl -I http://localhost:3000
+   curl -I http://localhost:3009
    ```
 4. **Verificar os logs de boot do sistema:**
    ```bash
    docker compose logs -f wiki
    ```
 5. **Realizar o setup primário:**
-   Acesse no navegador `http://localhost:3000` (ou o domínio mapeado da VPS) e siga o assistente de instalação do Wiki.js para cadastrar a conta de administrador primária.
+   Acesse no navegador `http://localhost:3009` (ou o domínio mapeado da VPS) e siga o assistente de instalação do Wiki.js para cadastrar a conta de administrador primária.
 
 ---
 
