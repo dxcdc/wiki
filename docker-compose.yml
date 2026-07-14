@@ -16,7 +16,7 @@ services:
       DB_PASS: ${DB_PASS}
       DB_NAME: wikidb
     ports:
-      - "3000:3000"
+      - "${WIKI_PORT:-3009}:3000"
     depends_on:
       db:
         condition: service_healthy
