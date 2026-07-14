@@ -50,6 +50,15 @@ Este documento centraliza as ocorrências de problemas técnicos mais comuns no 
 
 ---
 
+### Ocorrência 1.4: Falha de permissão no Dockerfile ao rodar `chmod +x`
+- **Sintoma:** O build da imagem falha com a mensagem `chmod: /entrypoint.sh: Operation not permitted`.
+- **Possível Causa:** O contêiner oficial do Wiki.js roda com um usuário não-root (`node`, UID 1000) por segurança, impedindo modificações de privilégios.
+- **Diagnóstico:** Verifique os logs de build do contêiner.
+- **Correção:** No `Dockerfile`, alterne temporariamente para o usuário administrador (`USER root`) para copiar o script para `/wiki/entrypoint.sh` e rodar o `chmod`, em seguida mude de volta com `USER node`.
+- **Validação:** Recompile a imagem.
+
+---
+
 ## 2. Categoria: Permissões de Arquivos
 
 ### Ocorrência 2.1: Erro de permissão de escrita no volume do banco (Permission Denied)

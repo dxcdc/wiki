@@ -10,11 +10,11 @@ Este arquivo fornece o contexto técnico unificado e regras de comportamento par
 - **Objetivo:** Base de conhecimento interna da ONG, baseada no Wiki.js.
 - **Tecnologias principais:** Node.js, PostgreSQL (16.4-alpine), Docker, Docker Compose, Nginx (Proxy externo), Bash (Scripts de backup).
 - **Estrutura de Diretórios relevante:**
-  - `/` : Arquivos de infraestrutura Docker, `.env.example`, `.gitignore`, `ajuda.txt`.
+  - `/` : Arquivos de infraestrutura Docker (`Dockerfile`, `docker-compose.yml`, `entrypoint.sh`), `.env.example`, `.gitignore`, `ajuda.txt`.
   - `/docs/` : Documentação técnica padronizada.
-  - `/data/db/` : Volume persistente local reservado para os arquivos físicos do banco PostgreSQL (ignorado pelo Git).
+  - `/data/postgres_data/` : Volume persistente local reservado para os arquivos físicos do banco PostgreSQL (ignorado pelo Git).
 - **Ambientes:** 
-  - Desenvolvimento (local): `http://localhost:3000`
+  - Desenvolvimento (local): `http://localhost:3009`
   - Produção: `https://wiki.<DOMINIO_DO_PROJETO>`
 - **Comunicação interna:** Integração com Mattermost para notificação de deploy, alertas de erros e status das rotinas diárias de backup.
 

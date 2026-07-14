@@ -18,6 +18,8 @@ A arquitetura do CDC Wiki é executada sob contêineres Docker isolados, estrutu
 
 ## Containers
 
+O contêiner da aplicação é compilado localmente a partir de um `Dockerfile` que herda de `requarks/wiki:2.5` e copia o script `entrypoint.sh`. Esse script executa a higienização de URLs SMTP (removendo `https://` ou barras finais) antes de delegar a execução ao inicializador nativo da aplicação. Devido ao usuário de execução não-root padrão (`node`), o build alterna temporariamente para `root` para configurar as permissões de execução.
+
 Abaixo está o arquivo `docker-compose.yml` de referência completo do projeto:
 
 ```yaml
