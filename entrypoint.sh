@@ -9,5 +9,5 @@ if [ -n "$SMTP_HOST" ]; then
   export SMTP_HOST
 fi
 
-# Executa o servidor principal do Wiki.js
-exec node /wiki/server
+# Repassa a execução para o entrypoint oficial do Wiki.js para que ele gere o config.yml corretamente
+exec docker-entrypoint.sh node server
