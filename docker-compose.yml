@@ -10,11 +10,11 @@ services:
     restart: always
     environment:
       DB_TYPE: postgres
-      DB_HOST: db
-      DB_PORT: 5432
-      DB_USER: wiki
+      DB_HOST: ${DB_HOST:-db}
+      DB_PORT: ${DB_PORT:-5432}
+      DB_USER: ${DB_USER:-wiki}
       DB_PASS: ${DB_PASS}
-      DB_NAME: wikidb
+      DB_NAME: ${DB_NAME:-wikidb}
     ports:
       - "${WIKI_PORT:-3009}:3000"
     depends_on:
@@ -28,13 +28,13 @@ services:
     container_name: wiki-db
     restart: always
     environment:
-      POSTGRES_USER: wiki
+      POSTGRES_USER: ${DB_USER:-wiki}
       POSTGRES_PASSWORD: ${DB_PASS}
-      POSTGRES_DB: wikidb
+      POSTGRES_DB: ${DB_NAME:-wikidb}
     volumes:
       - ./data/db:/var/lib/postgresql/data
     healthcheck:
-      test: ["CMD-SHELL", "pg_isready -U wiki -d wikidb"]
+      test: ["CMD-SHELL", "pg_isready -U $${POSTGRES_USER:-wiki} -d $${POSTGRES_DB:-wikidb}"]
       interval: 10s
       timeout: 5s
       retries: 5
