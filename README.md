@@ -2,6 +2,15 @@
 
 Este repositório armazena a infraestrutura conteinerizada e as diretrizes de implantação da base de conhecimento da CDC, baseada no Wiki.js.
 
+### A Importância de uma Wiki para a Organização (CDC)
+
+Uma base de conhecimento colaborativa e centralizada é um ativo estratégico indispensável para a CDC. A implementação desta Wiki visa atender a três pilares cruciais para a evolução da nossa organização:
+
+1. **Combate aos Silos de Informação (Fonte Única da Verdade):** Em equipes dinâmicas, o conhecimento técnico e operacional frequentemente fica restrito à memória individual de quem desenvolveu ou executou um processo. Esta Wiki atua como a fonte oficial e centralizada de documentação, eliminando a dependência de históricos informais e garantindo que guias técnicos, manuais operacionais e políticas internas estejam acessíveis a todos a qualquer momento.
+2. **Continuidade Operacional e Onboarding Ágil:** A rotatividade natural de colaboradores e voluntários em organizações sociais pode gerar perda de histórico técnico. Com a documentação estruturada, mitigamos esse risco e reduzimos significativamente o tempo de integração (*onboarding*) de novos integrantes. O novo membro da equipe encontra guias de "Como fazer" prontos e testados, acelerando sua curva de aprendizado.
+3. **Eficiência e Redução de Erros:** Processos complexos (como rotinas de backup, deploys de infraestrutura e integrações) passam de instruções "orais" para fluxos de trabalho escritos e revisados. Isso padroniza as entregas operacionais da CDC, reduzindo falhas manuais e retrabalho.
+4. **Cultura de Transparência e Colaboração:** O Wiki.js permite escrita amigável em Markdown e editores visuais WYSIWYG, convidando tanto a equipe técnica quanto administrativa a documentar e compartilhar saberes, reforçando a cultura de colaboração e transparência que fundamenta a governança da nossa organização.
+
 [![Wiki.js Version](https://img.shields.io/badge/Wiki.js-2.5-blue.svg)](https://js.wiki/)
 [![Database](https://img.shields.io/badge/Database-PostgreSQL%2016-blue.svg)](https://www.postgresql.org/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
