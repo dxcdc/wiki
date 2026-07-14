@@ -39,7 +39,9 @@ services:
       timeout: 5s
       retries: 5
     networks:
-      - wiki-net
+      wiki-net:
+        aliases:
+          - cdc-ezpoint_wiki-db
 
 networks:
   wiki-net:
