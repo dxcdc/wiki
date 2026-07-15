@@ -1,3 +1,13 @@
+---
+title: politica_backup
+description: 
+published: true
+date: 2026-07-15T01:00:23.835Z
+tags: 
+editor: markdown
+dateCreated: 2026-07-15T00:40:48.613Z
+---
+
 # Política de Backup e Restauração (CDC Wiki)
 
 Este documento define as regras, frequências, responsabilidades e procedimentos para backup e recuperação de desastres do ecossistema CDC Wiki.

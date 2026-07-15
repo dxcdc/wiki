@@ -1,3 +1,13 @@
+---
+title: diretrizes_documentacao
+description: 
+published: true
+date: 2026-07-15T01:00:18.085Z
+tags: 
+editor: markdown
+dateCreated: 2026-07-15T00:40:38.892Z
+---
+
 # Diretrizes de Governança da Documentação (CDC Wiki)
 
 Este documento estabelece as regras permanentes de criação, organização, manutenção e evolução da documentação técnica do projeto Wiki.js da CDC.

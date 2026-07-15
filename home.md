@@ -2,7 +2,7 @@
 title: Bem Vindo
 description: Portal de Conhecimento e Integração do Centro de Desenvolvimento e Cidadania (CDC)
 published: true
-date: 2026-07-15T01:16:30.868Z
+date: 2026-07-15T01:16:32.012Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-15T00:56:33.685Z

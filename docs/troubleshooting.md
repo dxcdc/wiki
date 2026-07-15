@@ -1,3 +1,13 @@
+---
+title: troubleshooting
+description: 
+published: true
+date: 2026-07-15T01:00:28.180Z
+tags: 
+editor: markdown
+dateCreated: 2026-07-15T00:40:55.544Z
+---
+
 # Guia de Troubleshooting e Diagnóstico Rápido (CDC Wiki)
 
 Este documento centraliza as ocorrências de problemas técnicos mais comuns no ambiente do Wiki.js e banco de dados PostgreSQL, divididos por categoria lógica.

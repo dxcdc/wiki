@@ -1,3 +1,13 @@
+---
+title: migration_guide
+description: 
+published: true
+date: 2026-07-15T01:00:20.975Z
+tags: 
+editor: markdown
+dateCreated: 2026-07-15T00:40:43.742Z
+---
+
 # Guia de Migração e Acesso Seguro (CDC Wiki)
 
 Este documento contém os procedimentos operacionais para acesso SSH seguro, diagnóstico do sistema e roteiro passo a passo para migração do Wiki.js entre servidores VPS.

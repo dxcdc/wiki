@@ -1,3 +1,13 @@
+---
+title: README
+description: 
+published: true
+date: 2026-07-15T01:00:13.516Z
+tags: 
+editor: markdown
+dateCreated: 2026-07-15T00:40:29.114Z
+---
+
 # CDC Wiki (Wiki.js Infrastructure)
 
 Este repositório armazena a infraestrutura conteinerizada e as diretrizes de implantação da base de conhecimento da CDC, baseada no Wiki.js.

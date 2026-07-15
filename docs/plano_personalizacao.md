@@ -1,3 +1,13 @@
+---
+title: plano_personalizacao
+description: 
+published: true
+date: 2026-07-15T01:00:22.472Z
+tags: 
+editor: markdown
+dateCreated: 2026-07-15T00:40:46.775Z
+---
+
 # Plano de Personalização e Integração (CDC Wiki)
 
 Este documento atua como um guia estratégico e roteiro de implementação para futuras personalizações estéticas, integrações com serviços externos e automações adicionais no Wiki.js da CDC.

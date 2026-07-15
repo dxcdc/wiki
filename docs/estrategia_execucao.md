@@ -1,3 +1,13 @@
+---
+title: estrategia_execucao
+description: 
+published: true
+date: 2026-07-15T01:00:19.603Z
+tags: 
+editor: markdown
+dateCreated: 2026-07-15T00:40:40.758Z
+---
+
 # Estratégia de Execução (CDC Wiki)
 
 Este documento detalha o fluxo de desenvolvimento, gerenciamento de branches, ciclos de deploy e rollback para o projeto Wiki.js da CDC.

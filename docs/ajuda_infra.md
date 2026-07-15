@@ -1,3 +1,13 @@
+---
+title: ajuda_infra
+description: 
+published: true
+date: 2026-07-15T01:00:16.266Z
+tags: 
+editor: markdown
+dateCreated: 2026-07-15T00:40:35.637Z
+---
+
 # Guia Técnico de Infraestrutura (CDC Wiki)
 
 Este documento detalha o desenho técnico, arquitetura de rede, segurança e configurações lógicas do projeto CDC Wiki.
