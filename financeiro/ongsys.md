@@ -21,6 +21,9 @@ O **ONGSYS** é o sistema integrado de gestão (ERP) oficial do **Centro de Dese
 
 Selecione o seu perfil de uso para consultar as instruções e procedimentos recomendados:
 
+### 📚 [Nível Base / Integração](/financeiro/ongsys/base)
+Manual geral de navegação, visão do sistema e conceitos básicos do ERP que todos os usuários devem conhecer antes de utilizar a ferramenta.
+
 ### 💼 [1. Nível Operacional](/financeiro/ongsys/operacional)
 Destinado a auxiliares, assistentes e colaboradores responsáveis por alimentar o sistema, cadastrar fornecedores e realizar lançamentos de contas a pagar/receber.
 
