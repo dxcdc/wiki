@@ -15,7 +15,7 @@ O departamento de Tecnologia da Informação (TI) do **Centro de Desenvolvimento
 
 ## 🔗 Atalhos de Acesso Rápido
 
-* 💻 **[Estoque TI](https://estoque.cdc.org.br/)** *(Sistema)* — Gerenciador físico de hardware, computadores, cabeamento e insumos de TI.
+* 💻 **[Estoque TI](/ti/estoque)** *(Sistema)* — Gerenciador físico de hardware, computadores, cabeamento e insumos de TI.
 * ✉️ **[KingHost](https://painel.kinghost.com.br/)** *(Servidor)* — Painel administrativo para e-mails corporativos da organização.
 * ☁️ **[Hostinger](https://hpanel.hostinger.com/)** *(Servidor)* — Servidor de hospedagem de websites e aplicações do CDC.
 * ☁️ **[Console Google Cloud](https://console.cloud.google.com/)** *(Infraestrutura)* — Gerenciamento de nuvem corporativa da Google Workspace.
