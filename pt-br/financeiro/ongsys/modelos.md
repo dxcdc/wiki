@@ -11,7 +11,7 @@ editor: markdown
 
 Este diretório contém os modelos instrucionais padrão do CDC para elaboração de páginas e guias.
 
-* [Modelo de Página Visual](/pt-br/financeiro/ongsys/modelos/modelo-de-pagina-visual)
-* [Modelo de Procedimento](/pt-br/financeiro/ongsys/modelos/modelo-de-procedimento)
-* [Modelo de Checklist](/pt-br/financeiro/ongsys/modelos/modelo-de-checklist)
-* [Modelo de Registro de Alteração](/pt-br/financeiro/ongsys/modelos/modelo-de-registro-de-alteracao)
+* [Modelo de Página Visual](/financeiro/ongsys/modelos/modelo-de-pagina-visual)
+* [Modelo de Procedimento](/financeiro/ongsys/modelos/modelo-de-procedimento)
+* [Modelo de Checklist](/financeiro/ongsys/modelos/modelo-de-checklist)
+* [Modelo de Registro de Alteração](/financeiro/ongsys/modelos/modelo-de-registro-de-alteracao)

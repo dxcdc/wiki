@@ -24,22 +24,22 @@ Escolha o nível relacionado ao seu perfil ou consulte o Nível Base para revisa
 
 ## 📖 Níveis de Documentação
 
-### 📚 [Nível Base / Integração](/pt-br/financeiro/ongsys/00-base)
+### 📚 [Nível Base / Integração](/financeiro/ongsys/00-base)
 * **Público-alvo:** Todos os usuários do sistema.
 * **Objetivo:** Alinhamento de conceitos básicos (centros de custo, rubricas, etapas, segurança) e visão geral dos fluxos.
 * **Principais assuntos:** Conhecendo o ERP, navegação, abertura de chamados e boas práticas nos registros.
 
-### 💼 [Nível Operacional](/pt-br/financeiro/ongsys/01-operacional)
+### 💼 [Nível Operacional](/financeiro/ongsys/01-operacional)
 * **Público-alvo:** Colaboradores que alimentam o sistema diariamente.
 * **Objetivo:** Instruções passo a passo de como executar as tarefas rotineiras de compras, pagamentos e cadastros.
 * **Principais assuntos:** Solicitação de pagamento, requisição de compra, notas fiscais e cadastro de fornecedor.
 
-### 📈 [Nível de Supervisão / Gerência](/pt-br/financeiro/ongsys/02-supervisao-gerencia)
+### 📈 [Nível de Supervisão / Gerência](/financeiro/ongsys/02-supervisao-gerencia)
 * **Público-alvo:** Coordenadores de projetos, gerentes e diretores.
 * **Objetivo:** Instruções sobre rotinas de aprovação, devolução de solicitações para correção, auditoria e relatórios.
 * **Principais assuntos:** Aprovações de compras/pagamentos, conciliação bancária e análise por Centro de Custo.
 
-### 🛠️ [Administração do Sistema](/pt-br/financeiro/ongsys/03-administracao)
+### 🛠️ [Administração do Sistema](/financeiro/ongsys/03-administracao)
 * **Público-alvo:** Administradores do sistema (TI e Controladoria).
 * **Objetivo:** Parametrizações, gerenciamento de permissões, alçadas de aprovação, logs e tratamento de incidentes.
 * **Principais assuntos:** Gestão de usuários, alteração de alçadas, integrações e chamados ao fornecedor.
@@ -48,8 +48,8 @@ Escolha o nível relacionado ao seu perfil ou consulte o Nível Base para revisa
 
 ## 🔗 Referências e Modelos
 
-* 📋 **[Matrizes de Referência](/pt-br/financeiro/ongsys/referencias)** — Inventário de telas, inventário de prints, matriz de permissões e responsabilidades.
-* 📄 **[Modelos de Páginas](/pt-br/financeiro/ongsys/modelos)** — Modelos instrucionais padrão para criação de novos procedimentos ou checklists.
+* 📋 **[Matrizes de Referência](/financeiro/ongsys/referencias)** — Inventário de telas, inventário de prints, matriz de permissões e responsabilidades.
+* 📄 **[Modelos de Páginas](/financeiro/ongsys/modelos)** — Modelos instrucionais padrão para criação de novos procedimentos ou checklists.
 
 ---
 *Última atualização: Julho de 2026.*
