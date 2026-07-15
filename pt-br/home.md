@@ -8,15 +8,14 @@ editor: markdown
 dateCreated: 2026-07-15T00:56:33.685Z
 ---
 
-# Bem-vindo à Base de Conhecimento do CDC!
+# Bem-vindo à Wiki da CDC! 🚀
 
-Este é o portal oficial de memória e inteligência da nossa organização. Aqui você encontra:
+Este é o **Portal de Conhecimento e Integração do Centro de Desenvolvimento e Cidadania (CDC)**. Nossa Wiki foi criada com o objetivo de centralizar, preservar e compartilhar o conhecimento coletivo da nossa organização. Aqui você encontrará os acessos diretos para todas as ferramentas do nosso ecossistema e tutoriais passo a passo sobre os processos de cada departamento.
 
-* **Acessos Rápidos:** Atalhos diretos para todos os sistemas da ONG.
-* **Manuais Práticos:** Guias simples de "Como Fazer" de cada setor.
-* **Autonomia:** O conhecimento da equipe centralizado para facilitar sua rotina.
-
-*Dúvidas frequentes ou avisos? Confira o nosso [FAQ](#duvidas-frequentes-faq) logo abaixo.*
+### 🌟 Como usar este Portal?
+* **Navegação Rápida:** Utilize a barra de pesquisa no topo ou navegue pelas categorias abaixo para encontrar o sistema que precisa.
+* **Tutoriais Internos:** Ao clicar no título de cada categoria (ex: [Recursos Humanos (RH)](/rh)), você será direcionado para a página daquela área, onde encontrará manuais de "Como Fazer" (como solicitar reembolsos, regras de ponto, etc.).
+* **Colaboração:** Se você notar algo desatualizado ou souber como realizar um processo que ainda não está documentado, clique no botão **Editar** (ícone de lápis) para contribuir!
 
 ---
 
