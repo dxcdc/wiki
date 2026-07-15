@@ -2,13 +2,13 @@
 title: Bem Vindo
 description: Portal de Conhecimento e Integração do Centro de Desenvolvimento e Cidadania (CDC)
 published: true
-date: 2026-07-15T01:16:30.868Z
-tags: 'home'
+date: 2026-07-15T22:58:25.861Z
+tags: home
 editor: markdown
 dateCreated: 2026-07-15T00:56:33.685Z
 ---
 
-# Bem-vindo à Wiki da CDC! 🚀
+# Bem-vindo à Wiki do CDC! 🚀
 
 Este é o **Portal de Conhecimento e Integração do Centro de Desenvolvimento e Cidadania (CDC)**. Nossa Wiki foi criada com o objetivo de centralizar, preservar e compartilhar o conhecimento coletivo da nossa organização. Aqui você encontrará os acessos diretos para todas as ferramentas do nosso ecossistema e tutoriais passo a passo sobre os processos de cada departamento.
 
