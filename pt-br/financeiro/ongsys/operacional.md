@@ -3,11 +3,7 @@ title: ONGSYS - Operacional
 description: Manual do nível operacional para lançamento de dados no ONGSYS
 published: true
 date: 2026-07-14T23:59:00.000Z
-tags:
-  - financeiro
-  - ongsys
-  - operacional
-editor: markdown
+tags: 'financeiro, ongsys, operacional'editor: markdown
 ---
 
 # 💼 ONGSYS — Nível Operacional

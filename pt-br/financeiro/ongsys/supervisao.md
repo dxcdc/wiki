@@ -3,11 +3,7 @@ title: ONGSYS - Supervisão
 description: Manual do nível de supervisão e gerência para o ONGSYS
 published: true
 date: 2026-07-14T23:59:00.000Z
-tags:
-  - financeiro
-  - ongsys
-  - supervisao
-editor: markdown
+tags: 'financeiro, ongsys, supervisao'editor: markdown
 ---
 
 # 📈 ONGSYS — Supervisão / Gerência

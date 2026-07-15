@@ -3,10 +3,7 @@ title: Vale Alimentação (Caju)
 description: Gestão do cartão de benefícios flexíveis do CDC
 published: true
 date: 2026-07-14T23:59:00.000Z
-tags:
-  - rh
-  - caju
-editor: markdown
+tags: 'rh, caju'editor: markdown
 ---
 
 # 💳 Vale Alimentação (Caju)

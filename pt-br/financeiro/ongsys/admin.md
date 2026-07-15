@@ -3,11 +3,7 @@ title: ONGSYS - Admin
 description: Manual do nível administrador de sistema para o ONGSYS
 published: true
 date: 2026-07-14T23:59:00.000Z
-tags:
-  - financeiro
-  - ongsys
-  - admin
-editor: markdown
+tags: 'financeiro, ongsys, admin'editor: markdown
 ---
 
 # 🛠️ ONGSYS — Administradores de Sistema
