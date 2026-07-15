@@ -15,7 +15,7 @@ O setor Financeiro do **Centro de Desenvolvimento e Cidadania (CDC)** é encarre
 
 ## 🔗 Atalhos de Acesso Rápido
 
-* 📊 **[ONGSYS](https://www.ongsys.com.br/)** *(Sistema)* — ERP integrado de gestão financeira, faturamento e controle orçamentário específico para o terceiro setor.
+* 📊 **[ONGSYS](/financeiro/ongsys)** *(Sistema)* — ERP integrado de gestão financeira, faturamento e controle orçamentário específico para o terceiro setor.
 
 ---
 
