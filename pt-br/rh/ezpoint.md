@@ -12,7 +12,8 @@ O **EZ Point** é a plataforma oficial de registro de jornada de trabalho dos co
 
 ---
 
-## 🚀 [Clique aqui para Acessar o EZ Point](https://client2.ezpointweb.com.br/)
+## 🚀 Link de Acesso
+👉 **[Clique aqui para Acessar](https://client2.ezpointweb.com.br/)**
 
 ---
 

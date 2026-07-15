@@ -13,7 +13,8 @@ Canal oficial no YouTube do CDC.
 
 ---
 
-## 🚀 [Acessar o YouTube](https://www.youtube.com/)
+## 🚀 Link de Acesso
+👉 **[Clique aqui para Acessar](https://www.youtube.com/)**
 
 ---
 

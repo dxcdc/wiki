@@ -13,7 +13,8 @@ O **Estoque TI** é o sistema oficial do **Centro de Desenvolvimento e Cidadania
 
 ---
 
-## 🚀 [Acessar o Sistema Estoque TI](https://estoque.cdc.org.br/)
+## 🚀 Link de Acesso
+👉 **[Clique aqui para Acessar](https://estoque.cdc.org.br/)**
 
 ---
 

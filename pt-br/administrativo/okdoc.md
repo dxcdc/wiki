@@ -13,7 +13,8 @@ Gestão eletrônica de documentos (GED) físicos e digitalização do CDC.
 
 ---
 
-## 🚀 [Acessar o OKDOC](https://digital.cdc.org.br/)
+## 🚀 Link de Acesso
+👉 **[Clique aqui para Acessar](https://digital.cdc.org.br/)**
 
 ---
 

@@ -13,7 +13,8 @@ Rede de consultórios odontológicos e carteirinha virtual Porto Odonto.
 
 ---
 
-## 🚀 [Acessar o Plano Odontológico (Porto Seguro)](https://cliente.portoseguro.com.br/)
+## 🚀 Link de Acesso
+👉 **[Clique aqui para Acessar](https://cliente.portoseguro.com.br/)**
 
 ---
 

@@ -13,7 +13,8 @@ Portal interno do Google Sites para alinhamento e comunicados rápidos para a eq
 
 ---
 
-## 🚀 [Acessar o Espaço CDC](https://sites.google.com/)
+## 🚀 Link de Acesso
+👉 **[Clique aqui para Acessar](https://sites.google.com/)**
 
 ---
 

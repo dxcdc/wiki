@@ -13,7 +13,8 @@ Gerenciador de hospedagens web e aplicações do CDC.
 
 ---
 
-## 🚀 [Acessar o Hostinger](https://hpanel.hostinger.com/)
+## 🚀 Link de Acesso
+👉 **[Clique aqui para Acessar](https://hpanel.hostinger.com/)**
 
 ---
 

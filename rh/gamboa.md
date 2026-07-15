@@ -13,7 +13,8 @@ Monitoramento de metas operacionais e controle de relatórios de impacto de proj
 
 ---
 
-## 🚀 [Acessar o Sistema GAMBOA](https://www.sciweb.com.br/)
+## 🚀 Link de Acesso
+👉 **[Clique aqui para Acessar](https://www.sciweb.com.br/)**
 
 ---
 

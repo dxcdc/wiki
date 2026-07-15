@@ -13,7 +13,8 @@ Painel consolidado de indicadores de assiduidade e frequências de equipes.
 
 ---
 
-## 🚀 [Acessar o Ponto Eletrônico (Monitoramento)](https://pontoeletronico.cdc.org.br/)
+## 🚀 Link de Acesso
+👉 **[Clique aqui para Acessar](https://pontoeletronico.cdc.org.br/)**
 
 ---
 

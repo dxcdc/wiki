@@ -79,6 +79,7 @@ Este é o **Portal de Conhecimento e Integração do Centro de Desenvolvimento e
 * ☁️ **[Hostinger](/ti/hostinger)** *(Servidor)* — Gerenciador de hospedagens web e aplicações.
 * ☁️ **[Console Google Cloud](/ti/gcp)** *(Infraestrutura)* — Painel de gerenciamento de recursos de nuvem da Google.
 * 🌐 **[Registro.br](/ti/registro)** *(Domínio)* — Administração de domínios `.org.br` da instituição.
+* 🌐 **[Cloudflare](/ti/cloudflare)** *(Segurança)* — Gerenciamento de DNS, segurança de borda e certificado SSL.
 * 📋 **[Gestão de Demandas (Monday)](/ti/monday)** *(Sistema)* — Controle de chamados de suporte e tarefas de TI.
 * 📝 **[Cadastro de Sistemas](/ti/cadastro-sistemas)** *(Formulário)* — Solicitação de novos acessos e permissões para usuários.
 
@@ -129,7 +130,7 @@ Este é o **Portal de Conhecimento e Integração do Centro de Desenvolvimento e
 
 * 🛠️ **Suporte de TI:** Canal de suporte no **Mattermost** (Canal `#ti-suporte`) ou e-mail: `ti@cdc.org.br`
 * 👥 **Recursos Humanos:** E-mail: `rh@cdc.org.br`
-* 🪙 **Setor Financeiro:** E-mail: `financeiro@cdc.org.br`
+* 🔗 **Portal de Sistemas:** [Acessar Portal de Sistemas](https://integracao.cdc.org.br/) (Central de atalhos rápidos do CDC)
 
 ---
 *Última atualização do Portal: Julho de 2026.*

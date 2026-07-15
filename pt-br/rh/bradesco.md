@@ -13,7 +13,8 @@ Rede credenciada de hospitais, reembolso e consultas do plano Bradesco Saúde.
 
 ---
 
-## 🚀 [Acessar o Plano de Saúde (Bradesco)](https://wwws.bradescosaude.com.br/)
+## 🚀 Link de Acesso
+👉 **[Clique aqui para Acessar](https://wwws.bradescosaude.com.br/)**
 
 ---
 

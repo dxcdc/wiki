@@ -13,7 +13,8 @@ Pasta compartilhada com logotipos, paleta de cores e templates de apresentação
 
 ---
 
-## 🚀 [Acessar o Drive da Identidade Visual](https://drive.google.com/)
+## 🚀 Link de Acesso
+👉 **[Clique aqui para Acessar](https://drive.google.com/)**
 
 ---
 

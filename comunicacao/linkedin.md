@@ -13,7 +13,8 @@ Página oficial do CDC no LinkedIn.
 
 ---
 
-## 🚀 [Acessar o LinkedIn](https://www.linkedin.com/)
+## 🚀 Link de Acesso
+👉 **[Clique aqui para Acessar](https://www.linkedin.com/)**
 
 ---
 

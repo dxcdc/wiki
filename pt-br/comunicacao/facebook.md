@@ -13,7 +13,8 @@ Página institucional oficial no Facebook do CDC.
 
 ---
 
-## 🚀 [Acessar o Facebook](https://www.facebook.com/)
+## 🚀 Link de Acesso
+👉 **[Clique aqui para Acessar](https://www.facebook.com/)**
 
 ---
 

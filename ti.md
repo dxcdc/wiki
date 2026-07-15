@@ -20,6 +20,7 @@ O departamento de Tecnologia da Informação (TI) do **Centro de Desenvolvimento
 * ☁️ **[Hostinger](/ti/hostinger)** *(Servidor)* — Servidor de hospedagem de websites e aplicações do CDC.
 * ☁️ **[Console Google Cloud](/ti/gcp)** *(Infraestrutura)* — Gerenciamento de nuvem corporativa da Google Workspace.
 * 🌐 **[Registro.br](/ti/registro)** *(Domínio)* — Administração oficial dos domínios `.org.br` da instituição.
+* 🌐 **[Cloudflare](/ti/cloudflare)** *(Segurança)* — Gerenciamento de DNS, proteção contra DDoS, CDN e SSL.
 * 📋 **[Gestão de Demandas (Monday)](/ti/monday)** *(Sistema)* — Abertura de chamados internos de suporte técnico.
 * 📝 **[Cadastro de Sistemas](/ti/cadastro-sistemas)** *(Formulário)* — Solicitação para criação de novos usuários e alteração de níveis de permissão em sistemas do CDC.
 

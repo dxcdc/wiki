@@ -13,7 +13,8 @@ Plataforma Moodle e Ambiente Virtual de Aprendizagem (LMS) do CDC.
 
 ---
 
-## 🚀 [Acessar o Rede Educa](https://educa.cdc.org.br/)
+## 🚀 Link de Acesso
+👉 **[Clique aqui para Acessar](https://educa.cdc.org.br/)**
 
 ---
 

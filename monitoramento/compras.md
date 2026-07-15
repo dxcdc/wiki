@@ -13,7 +13,8 @@ Painel de acompanhamento de requisições de compras e cotações de fornecedore
 
 ---
 
-## 🚀 [Acessar o Compras ONGSYS](https://erpcompras.cdc.org.br/)
+## 🚀 Link de Acesso
+👉 **[Clique aqui para Acessar](https://erpcompras.cdc.org.br/)**
 
 ---
 

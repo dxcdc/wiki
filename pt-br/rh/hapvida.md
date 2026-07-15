@@ -13,7 +13,8 @@ Marcação de consultas, exames e rede Hapvida.
 
 ---
 
-## 🚀 [Acessar o Plano de Saúde (Hapvida)](https://www2.hapvida.com.br/)
+## 🚀 Link de Acesso
+👉 **[Clique aqui para Acessar](https://www2.hapvida.com.br/)**
 
 ---
 

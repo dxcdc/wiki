@@ -13,7 +13,8 @@ Painel administrativo de e-mails corporativos da organização.
 
 ---
 
-## 🚀 [Acessar o KingHost](https://painel.kinghost.com.br/)
+## 🚀 Link de Acesso
+👉 **[Clique aqui para Acessar](https://painel.kinghost.com.br/)**
 
 ---
 

@@ -12,7 +12,8 @@ A **Caju** é a plataforma responsável pelo cartão de benefícios flexíveis (
 
 ---
 
-## 🚀 [Clique aqui para Acessar o Portal da Caju](https://auth.caju.com.br/)
+## 🚀 Link de Acesso
+👉 **[Clique aqui para Acessar](https://auth.caju.com.br/)**
 
 ---
 

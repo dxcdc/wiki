@@ -13,7 +13,8 @@ Administração oficial de domínios .org.br da instituição.
 
 ---
 
-## 🚀 [Acessar o Registro.br](https://registro.br/)
+## 🚀 Link de Acesso
+👉 **[Clique aqui para Acessar](https://registro.br/)**
 
 ---
 

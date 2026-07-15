@@ -13,7 +13,8 @@ Portal público oficial de divulgação de projetos, editais e doações do CDC.
 
 ---
 
-## 🚀 [Acessar o Site Oficial da CDC](https://cdc.org.br/)
+## 🚀 Link de Acesso
+👉 **[Clique aqui para Acessar](https://cdc.org.br/)**
 
 ---
 

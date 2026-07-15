@@ -12,7 +12,8 @@ O **ONGSYS** é o sistema integrado de gestão (ERP) oficial do **Centro de Dese
 
 ---
 
-## 🚀 [Acessar o Sistema ONGSYS](https://www.ongsys.com.br/)
+## 🚀 Link de Acesso
+👉 **[Clique aqui para Acessar](https://www.ongsys.com.br/)**
 
 ---
 

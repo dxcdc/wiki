@@ -13,7 +13,8 @@ Canal institucional oficial no Instagram do CDC.
 
 ---
 
-## 🚀 [Acessar o Instagram](https://www.instagram.com/)
+## 🚀 Link de Acesso
+👉 **[Clique aqui para Acessar](https://www.instagram.com/)**
 
 ---
 
