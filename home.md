@@ -127,7 +127,7 @@ Este é o **Portal de Conhecimento e Integração do Centro de Desenvolvimento e
 
 ## 📞 Contatos de Suporte Rápido
 
-* 🛠️ **Suporte de TI:** Abertura de chamados via **[Monday](/ti/monday)** ou e-mail: `ti@cdc.org.br`
+* 🛠️ **Suporte de TI:** Canal de suporte no **Mattermost** (Canal `#ti-suporte`) ou e-mail: `ti@cdc.org.br`
 * 👥 **Recursos Humanos:** E-mail: `rh@cdc.org.br`
 * 🪙 **Setor Financeiro:** E-mail: `financeiro@cdc.org.br`
 
