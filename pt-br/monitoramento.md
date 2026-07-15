@@ -3,8 +3,7 @@ title: Monitoramento
 description: Painéis de acompanhamento operacional em tempo real do CDC
 published: true
 date: 2026-07-14T22:25:00.000Z
-tags:
-  - monitoramento
+tags: 'monitoramento'
 editor: markdown
 ---
 

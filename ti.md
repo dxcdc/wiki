@@ -3,8 +3,7 @@ title: Tecnologia da Informação (TI)
 description: Suporte de TI, infraestrutura, servidores, domínios e estoque do CDC
 published: true
 date: 2026-07-14T22:25:00.000Z
-tags:
-  - ti
+tags: 'ti'
 editor: markdown
 ---
 

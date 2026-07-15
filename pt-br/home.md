@@ -3,8 +3,7 @@ title: Página Inicial
 description: Portal de documentação e base de conhecimento da CDC
 published: true
 date: 2026-07-14T21:30:00.000Z
-tags:
-  - home
+tags: 'home'
 editor: markdown
 ---
 

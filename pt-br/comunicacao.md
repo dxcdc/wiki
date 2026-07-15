@@ -3,8 +3,7 @@ title: Comunicação e Redes Sociais
 description: Comunicação institucional, redes sociais e identidade de marca do CDC
 published: true
 date: 2026-07-14T22:25:00.000Z
-tags:
-  - comunicacao
+tags: 'comunicacao'
 editor: markdown
 ---
 

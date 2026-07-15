@@ -3,8 +3,7 @@ title: Financeiro
 description: Gestão administrativa e financeira do CDC
 published: true
 date: 2026-07-14T22:25:00.000Z
-tags:
-  - financeiro
+tags: 'financeiro'
 editor: markdown
 ---
 

@@ -3,8 +3,7 @@ title: Recursos Humanos (RH)
 description: Benefícios, ponto eletrônico, saúde e contratações do CDC
 published: true
 date: 2026-07-14T22:25:00.000Z
-tags:
-  - rh
+tags: 'rh'
 editor: markdown
 ---
 
