@@ -3,7 +3,7 @@ title: Logs e Auditoria
 description: Documentação do sistema ONGSYS - CDC
 published: true
 date: 2026-07-15T17:20:00.000Z
-tags: 'financeiro, ongsys, logs-e-auditoria'
+tags: 'financeiro, ongsys, 09 logs e auditoria'
 editor: markdown
 ---
 

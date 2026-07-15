@@ -3,7 +3,7 @@ title: Consulta de Produtos e Serviços
 description: Documentação do sistema ONGSYS - CDC
 published: true
 date: 2026-07-15T17:20:00.000Z
-tags: 'financeiro, ongsys, consulta-de-produtos-e-serviços'
+tags: 'financeiro, ongsys, 06 consulta de produtos e servicos'
 editor: markdown
 ---
 

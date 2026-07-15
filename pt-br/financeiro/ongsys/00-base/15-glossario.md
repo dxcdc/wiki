@@ -3,7 +3,7 @@ title: Glossário de Termos
 description: Documentação do sistema ONGSYS - CDC
 published: true
 date: 2026-07-15T17:20:00.000Z
-tags: 'financeiro, ongsys, glossário-de-termos'
+tags: 'financeiro, ongsys, 15 glossario'
 editor: markdown
 ---
 

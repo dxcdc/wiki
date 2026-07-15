@@ -3,7 +3,7 @@ title: Solicitação de Pagamento
 description: Documentação do sistema ONGSYS - CDC
 published: true
 date: 2026-07-15T17:20:00.000Z
-tags: 'financeiro, ongsys, solicitação-de-pagamento'
+tags: 'financeiro, ongsys, 01 solicitacao de pagamento'
 editor: markdown
 ---
 

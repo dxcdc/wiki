@@ -3,7 +3,7 @@ title: Finalização de Pedido
 description: Documentação do sistema ONGSYS - CDC
 published: true
 date: 2026-07-15T17:20:00.000Z
-tags: 'financeiro, ongsys, finalização-de-pedido'
+tags: 'financeiro, ongsys, 11 finalizacao de pedido'
 editor: markdown
 ---
 

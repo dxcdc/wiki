@@ -3,7 +3,7 @@ title: Auditoria e Rastreabilidade
 description: Documentação do sistema ONGSYS - CDC
 published: true
 date: 2026-07-15T17:20:00.000Z
-tags: 'financeiro, ongsys, auditoria-e-rastreabilidade'
+tags: 'financeiro, ongsys, 08 auditoria e rastreabilidade'
 editor: markdown
 ---
 

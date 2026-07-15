@@ -3,7 +3,7 @@ title: Relatórios Consolidados
 description: Documentação do sistema ONGSYS - CDC
 published: true
 date: 2026-07-15T17:20:00.000Z
-tags: 'financeiro, ongsys, relatórios-consolidados'
+tags: 'financeiro, ongsys, 07 relatorios consolidados'
 editor: markdown
 ---
 

@@ -3,7 +3,7 @@ title: Cadastro de Fornecedor
 description: Documentação do sistema ONGSYS - CDC
 published: true
 date: 2026-07-15T17:20:00.000Z
-tags: 'financeiro, ongsys, cadastro-de-fornecedor'
+tags: 'financeiro, ongsys, 05 cadastro de fornecedor'
 editor: markdown
 ---
 

@@ -3,7 +3,7 @@ title: Centros de Custo e Rubricas
 description: Documentação do sistema ONGSYS - CDC
 published: true
 date: 2026-07-15T17:20:00.000Z
-tags: 'financeiro, ongsys, centros-de-custo-e-rubricas'
+tags: 'financeiro, ongsys, 06 centros de custo e rubricas'
 editor: markdown
 ---
 

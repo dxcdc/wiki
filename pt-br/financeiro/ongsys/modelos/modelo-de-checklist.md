@@ -3,7 +3,7 @@ title: Modelo de Checklist
 description: Documentação do sistema ONGSYS - CDC
 published: true
 date: 2026-07-15T17:20:00.000Z
-tags: 'financeiro, ongsys, modelo-de-checklist'
+tags: 'financeiro, ongsys, modelo de checklist'
 editor: markdown
 ---
 

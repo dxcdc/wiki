@@ -3,7 +3,7 @@ title: Aprovações de Pagamento
 description: Documentação do sistema ONGSYS - CDC
 published: true
 date: 2026-07-15T17:20:00.000Z
-tags: 'financeiro, ongsys, aprovações-de-pagamento'
+tags: 'financeiro, ongsys, 01 aprovacoes de pagamento'
 editor: markdown
 ---
 

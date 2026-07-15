@@ -3,7 +3,7 @@ title: Matriz de Conteúdos
 description: Documentação do sistema ONGSYS - CDC
 published: true
 date: 2026-07-15T17:20:00.000Z
-tags: 'financeiro, ongsys, matriz-de-conteúdos'
+tags: 'financeiro, ongsys, matriz de conteudos'
 editor: markdown
 ---
 

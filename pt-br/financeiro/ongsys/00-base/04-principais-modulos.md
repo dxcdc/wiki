@@ -3,7 +3,7 @@ title: Principais Módulos
 description: Documentação do sistema ONGSYS - CDC
 published: true
 date: 2026-07-15T17:20:00.000Z
-tags: 'financeiro, ongsys, principais-módulos'
+tags: 'financeiro, ongsys, 04 principais modulos'
 editor: markdown
 ---
 

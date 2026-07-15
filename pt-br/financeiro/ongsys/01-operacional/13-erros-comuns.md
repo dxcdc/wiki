@@ -3,7 +3,7 @@ title: Erros Comuns
 description: Documentação do sistema ONGSYS - CDC
 published: true
 date: 2026-07-15T17:20:00.000Z
-tags: 'financeiro, ongsys, erros-comuns'
+tags: 'financeiro, ongsys, 13 erros comuns'
 editor: markdown
 ---
 

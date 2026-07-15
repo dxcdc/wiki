@@ -3,7 +3,7 @@ title: Síntese do Treinamento ONGSYS
 description: Documentação do sistema ONGSYS - CDC
 published: true
 date: 2026-07-15T17:20:00.000Z
-tags: 'financeiro, ongsys, síntese-do-treinamento-ongsys'
+tags: 'financeiro, ongsys, sintese do treinamento'
 editor: markdown
 ---
 

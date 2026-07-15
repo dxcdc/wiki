@@ -3,7 +3,7 @@ title: ONGSYS - Nível Supervisão
 description: Documentação do sistema ONGSYS - CDC
 published: true
 date: 2026-07-15T17:20:00.000Z
-tags: 'financeiro, ongsys, ongsys,-nível-supervisão'
+tags: 'financeiro, ongsys, 02 supervisao gerencia'
 editor: markdown
 ---
 

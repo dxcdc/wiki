@@ -3,7 +3,7 @@ title: Acompanhamento de Pagamento
 description: Documentação do sistema ONGSYS - CDC
 published: true
 date: 2026-07-15T17:20:00.000Z
-tags: 'financeiro, ongsys, acompanhamento-de-pagamento'
+tags: 'financeiro, ongsys, 02 acompanhamento de pagamento'
 editor: markdown
 ---
 

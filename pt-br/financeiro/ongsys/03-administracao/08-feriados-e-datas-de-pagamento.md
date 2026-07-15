@@ -3,7 +3,7 @@ title: Feriados e Datas de Pagamento
 description: Documentação do sistema ONGSYS - CDC
 published: true
 date: 2026-07-15T17:20:00.000Z
-tags: 'financeiro, ongsys, feriados-e-datas-de-pagamento'
+tags: 'financeiro, ongsys, 08 feriados e datas de pagamento'
 editor: markdown
 ---
 

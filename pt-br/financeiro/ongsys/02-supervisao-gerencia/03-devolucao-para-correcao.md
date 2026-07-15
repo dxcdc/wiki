@@ -3,7 +3,7 @@ title: Devolução para Correção
 description: Documentação do sistema ONGSYS - CDC
 published: true
 date: 2026-07-15T17:20:00.000Z
-tags: 'financeiro, ongsys, devolução-para-correção'
+tags: 'financeiro, ongsys, 03 devolucao para correcao'
 editor: markdown
 ---
 

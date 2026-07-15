@@ -3,7 +3,7 @@ title: Boas Práticas nos Registros
 description: Documentação do sistema ONGSYS - CDC
 published: true
 date: 2026-07-15T17:20:00.000Z
-tags: 'financeiro, ongsys, boas-práticas-nos-registros'
+tags: 'financeiro, ongsys, 13 boas praticas'
 editor: markdown
 ---
 

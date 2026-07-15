@@ -3,7 +3,7 @@ title: Inventário de Prints
 description: Documentação do sistema ONGSYS - CDC
 published: true
 date: 2026-07-15T17:20:00.000Z
-tags: 'financeiro, ongsys, inventário-de-prints'
+tags: 'financeiro, ongsys, inventario de prints'
 editor: markdown
 ---
 

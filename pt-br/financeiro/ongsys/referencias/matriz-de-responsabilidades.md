@@ -3,7 +3,7 @@ title: Matriz de Responsabilidades (RACI)
 description: Documentação do sistema ONGSYS - CDC
 published: true
 date: 2026-07-15T17:20:00.000Z
-tags: 'financeiro, ongsys, matriz-de-responsabilidades-(raci)'
+tags: 'financeiro, ongsys, matriz de responsabilidades'
 editor: markdown
 ---
 

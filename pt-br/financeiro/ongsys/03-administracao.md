@@ -3,7 +3,7 @@ title: ONGSYS - Administração
 description: Documentação do sistema ONGSYS - CDC
 published: true
 date: 2026-07-15T17:20:00.000Z
-tags: 'financeiro, ongsys, ongsys,-administração'
+tags: 'financeiro, ongsys, 03 administracao'
 editor: markdown
 ---
 

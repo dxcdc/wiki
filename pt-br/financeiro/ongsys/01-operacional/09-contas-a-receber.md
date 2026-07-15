@@ -3,7 +3,7 @@ title: Contas a Receber
 description: Documentação do sistema ONGSYS - CDC
 published: true
 date: 2026-07-15T17:20:00.000Z
-tags: 'financeiro, ongsys, contas-a-receber'
+tags: 'financeiro, ongsys, 09 contas a receber'
 editor: markdown
 ---
 

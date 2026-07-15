@@ -3,7 +3,7 @@ title: Análise por Centro de Custo
 description: Documentação do sistema ONGSYS - CDC
 published: true
 date: 2026-07-15T17:20:00.000Z
-tags: 'financeiro, ongsys, análise-por-centro-de-custo'
+tags: 'financeiro, ongsys, 06 analise por centro de custo'
 editor: markdown
 ---
 

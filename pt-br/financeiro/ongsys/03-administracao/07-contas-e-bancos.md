@@ -3,7 +3,7 @@ title: Contas e Bancos
 description: Documentação do sistema ONGSYS - CDC
 published: true
 date: 2026-07-15T17:20:00.000Z
-tags: 'financeiro, ongsys, contas-e-bancos'
+tags: 'financeiro, ongsys, 07 contas e bancos'
 editor: markdown
 ---
 

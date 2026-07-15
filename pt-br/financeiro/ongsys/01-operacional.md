@@ -3,7 +3,7 @@ title: ONGSYS - Nível Operacional
 description: Documentação do sistema ONGSYS - CDC
 published: true
 date: 2026-07-15T17:20:00.000Z
-tags: 'financeiro, ongsys, ongsys,-nível-operacional'
+tags: 'financeiro, ongsys, 01 operacional'
 editor: markdown
 ---
 

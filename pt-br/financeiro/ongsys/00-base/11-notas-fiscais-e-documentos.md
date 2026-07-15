@@ -3,7 +3,7 @@ title: Notas Fiscais e Documentos
 description: Documentação do sistema ONGSYS - CDC
 published: true
 date: 2026-07-15T17:20:00.000Z
-tags: 'financeiro, ongsys, notas-fiscais-e-documentos'
+tags: 'financeiro, ongsys, 11 notas fiscais e documentos'
 editor: markdown
 ---
 

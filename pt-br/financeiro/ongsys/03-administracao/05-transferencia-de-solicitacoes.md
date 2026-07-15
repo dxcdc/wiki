@@ -3,7 +3,7 @@ title: Transferência de Solicitações
 description: Documentação do sistema ONGSYS - CDC
 published: true
 date: 2026-07-15T17:20:00.000Z
-tags: 'financeiro, ongsys, transferência-de-solicitações'
+tags: 'financeiro, ongsys, 05 transferencia de solicitacoes'
 editor: markdown
 ---
 
