@@ -80,6 +80,8 @@ Este é o **Portal de Conhecimento e Integração do Centro de Desenvolvimento e
 * ☁️ **[Console Google Cloud](/ti/gcp)** *(Infraestrutura)* — Painel de gerenciamento de recursos de nuvem da Google.
 * 🌐 **[Registro.br](/ti/registro)** *(Domínio)* — Administração de domínios `.org.br` da instituição.
 * 🌐 **[Cloudflare](/ti/cloudflare)** *(Segurança)* — Gerenciamento de DNS, segurança de borda e certificado SSL.
+* ✉️ **[Postal](/ti/postal)** *(E-mail)* — Plataforma de disparo de e-mails.
+* ⚙️ **[Core](/ti/core)** *(Painel)* — Central de ferramentas e controles de TI.
 * 📋 **[Gestão de Demandas (Monday)](/ti/monday)** *(Sistema)* — Controle de chamados de suporte e tarefas de TI.
 * 📝 **[Cadastro de Sistemas](/ti/cadastro-sistemas)** *(Formulário)* — Solicitação de novos acessos e permissões para usuários.
 
