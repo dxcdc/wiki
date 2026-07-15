@@ -15,7 +15,7 @@ A área de Educação e Capacitação do **Centro de Desenvolvimento e Cidadania
 
 ## 🔗 Atalhos de Acesso Rápido
 
-* 🏫 **[Rede Educa](https://educa.cdc.org.br/)** *(Educação)* — Portal oficial Moodle para oferta de cursos, avaliações e certificações do CDC.
+* 🏫 **[Rede Educa](/educa/rede-educa)** *(Educação)* — Portal oficial Moodle para oferta de cursos, avaliações e certificações do CDC.
 
 ---
 

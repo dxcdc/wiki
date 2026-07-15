@@ -15,9 +15,9 @@ O departamento Administrativo do **Centro de Desenvolvimento e Cidadania (CDC)**
 
 ## 🔗 Atalhos de Acesso Rápido
 
-* 📄 **[OKDOC](https://digital.cdc.org.br/)** *(Sistema)* — Portal para gestão eletrônica de documentos (GED) e digitalização segura.
-* ⛽ **[MaxiFrota](https://novogis.maxifrota.com.br/)** *(Sistema)* — Gestão de cartões de combustível, despesas de manutenção e faturamento da frota.
-* 📍 **[Cobli](https://painel.cobli.co/)** *(Sistema)* — Painel de telemetria, rastreamento de veículos e comportamento de direção.
+* 📄 **[OKDOC](/administrativo/okdoc)** *(Sistema)* — Portal para gestão eletrônica de documentos (GED) e digitalização segura.
+* ⛽ **[MaxiFrota](/administrativo/maxifrota)** *(Sistema)* — Gestão de cartões de combustível, despesas de manutenção e faturamento da frota.
+* 📍 **[Cobli](/administrativo/cobli)** *(Sistema)* — Painel de telemetria, rastreamento de veículos e comportamento de direção.
 
 ---
 

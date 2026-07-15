@@ -16,12 +16,12 @@ O departamento de Tecnologia da Informação (TI) do **Centro de Desenvolvimento
 ## 🔗 Atalhos de Acesso Rápido
 
 * 💻 **[Estoque TI](/ti/estoque)** *(Sistema)* — Gerenciador físico de hardware, computadores, cabeamento e insumos de TI.
-* ✉️ **[KingHost](https://painel.kinghost.com.br/)** *(Servidor)* — Painel administrativo para e-mails corporativos da organização.
-* ☁️ **[Hostinger](https://hpanel.hostinger.com/)** *(Servidor)* — Servidor de hospedagem de websites e aplicações do CDC.
-* ☁️ **[Console Google Cloud](https://console.cloud.google.com/)** *(Infraestrutura)* — Gerenciamento de nuvem corporativa da Google Workspace.
-* 🌐 **[Registro.br](https://registro.br/)** *(Domínio)* — Administração oficial dos domínios `.org.br` da instituição.
-* 📋 **[Gestão de Demandas (Monday)](https://cdc56896.monday.com/)** *(Sistema)* — Abertura de chamados internos de suporte técnico.
-* 📝 **[Cadastro de Sistemas](https://docs.google.com/forms/d/e/1FAIpQLSfb0De_QY09xVPunhCEzpTZeV965EQt_Cmk4vL-WwgqzoaOpA/viewform?ouid=103765690399295332532&usp=sharing)** *(Formulário)* — Solicitação para criação de novos usuários e alteração de níveis de permissão em sistemas do CDC.
+* ✉️ **[KingHost](/ti/kinghost)** *(Servidor)* — Painel administrativo para e-mails corporativos da organização.
+* ☁️ **[Hostinger](/ti/hostinger)** *(Servidor)* — Servidor de hospedagem de websites e aplicações do CDC.
+* ☁️ **[Console Google Cloud](/ti/gcp)** *(Infraestrutura)* — Gerenciamento de nuvem corporativa da Google Workspace.
+* 🌐 **[Registro.br](/ti/registro)** *(Domínio)* — Administração oficial dos domínios `.org.br` da instituição.
+* 📋 **[Gestão de Demandas (Monday)](/ti/monday)** *(Sistema)* — Abertura de chamados internos de suporte técnico.
+* 📝 **[Cadastro de Sistemas](/ti/cadastro-sistemas)** *(Formulário)* — Solicitação para criação de novos usuários e alteração de níveis de permissão em sistemas do CDC.
 
 ---
 

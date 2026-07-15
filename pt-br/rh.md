@@ -17,20 +17,20 @@ O departamento de Recursos Humanos do **Centro de Desenvolvimento e Cidadania (C
 
 ### Ponto e Projetos
 * ⏰ **[EZ Point](/rh/ezpoint)** *(Sistema)* — Acesso ao ponto eletrônico para registro diário e consulta de espelho de ponto.
-* 📈 **[Sistema GAMBOA](https://www.sciweb.com.br/)** *(Sistema)* — Monitoramento de metas operacionais e controle de relatórios de impacto de projetos sociais.
-* 🎓 **[CIEE](https://cieepe.org.br/)** *(Sistema)* — Gerenciador de contratos e renovações de programas de estágio e aprendizagem.
+* 📈 **[Sistema GAMBOA](/rh/gamboa)** *(Sistema)* — Monitoramento de metas operacionais e controle de relatórios de impacto de projetos sociais.
+* 🎓 **[CIEE](/rh/ciee)** *(Sistema)* — Gerenciador de contratos e renovações de programas de estágio e aprendizagem.
 
 ### Alimentação e Benefícios
 * 💳 **[Vale Alimentação (Caju)](/rh/caju)** *(Benefício)* — Gestão e saldo do cartão de benefícios flexíveis (Alimentação e Refeição).
-* 🛡️ **[Seguro de Vida (SulAmérica)](https://vidaweb.sulamerica.com.br/)** *(Benefício)* — Acesso às apólices, coberturas e declaração do seguro de vida empresarial.
-* 🚌 **[Vale Transporte Recife (Grande Recife)](https://virtual.granderecife.pe.gov.br/)** *(Benefício)* — Portal de recarga e solicitação do cartão VEM.
-* 🚌 **[Vale Transporte Caruaru (LEVA)](https://max00173.itstransdata.com/)** *(Benefício)* — Portal de gestão de passes do sistema de transporte de Caruaru.
+* 🛡️ **[Seguro de Vida (SulAmérica)](/rh/sulamerica)** *(Benefício)* — Acesso às apólices, coberturas e declaração do seguro de vida empresarial.
+* 🚌 **[Vale Transporte Recife (Grande Recife)](/rh/vem)** *(Benefício)* — Portal de recarga e solicitação do cartão VEM.
+* 🚌 **[Vale Transporte Caruaru (LEVA)](/rh/leva)** *(Benefício)* — Portal de gestão de passes do sistema de transporte de Caruaru.
 
 ### Saúde e Odontologia
-* 🩺 **[Plano de Saúde (Bradesco)](https://wwws.bradescosaude.com.br/)** *(Saúde)* — Acesso a reembolsos, guia médica e rede referenciada.
-* 🩺 **[Plano de Saúde (Hapvida)](https://www2.hapvida.com.br/)** *(Saúde)* — Agendamento de exames e consultas do plano de saúde.
-* 🦷 **[Plano Odontológico (Porto Seguro)](https://cliente.portoseguro.com.br/)** *(Saúde)* — Rede credenciada e carteirinha virtual Porto Odonto.
-* 🏃 **[SESI Viva+](https://www.sesivivamais.com.br/)** *(Saúde)* — Programas de saúde no trabalho e medicina ocupacional.
+* 🩺 **[Plano de Saúde (Bradesco)](/rh/bradesco)** *(Saúde)* — Acesso a reembolsos, guia médica e rede referenciada.
+* 🩺 **[Plano de Saúde (Hapvida)](/rh/hapvida)** *(Saúde)* — Agendamento de exames e consultas do plano de saúde.
+* 🦷 **[Plano Odontológico (Porto Seguro)](/rh/portoseguro)** *(Saúde)* — Rede credenciada e carteirinha virtual Porto Odonto.
+* 🏃 **[SESI Viva+](/rh/sesivivamais)** *(Saúde)* — Programas de saúde no trabalho e medicina ocupacional.
 
 ---
 

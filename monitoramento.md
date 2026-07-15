@@ -15,9 +15,9 @@ A área de Monitoramento do **Centro de Desenvolvimento e Cidadania (CDC)** gere
 
 ## 🔗 Atalhos de Acesso Rápido
 
-* 🚛 **[Sistema de Transportes](https://transportes.cdc.org.br/)** *(Painel)* — Acompanhamento em tempo real de rotas, consumo de combustíveis e cronogramas de viagens.
-* ⏰ **[Ponto Eletrônico (Monitoramento)](https://pontoeletronico.cdc.org.br/)** *(Painel)* — Painel de indicadores de assiduidade, horas extras e frequência das equipes.
-* 🛒 **[Compras ONGSYS](https://erpcompras.cdc.org.br/)** *(Painel)* — Monitoramento de requisições de compras, cotações de fornecedores e andamento de entregas.
+* 🚛 **[Sistema de Transportes](/monitoramento/transportes)** *(Painel)* — Acompanhamento em tempo real de rotas, consumo de combustíveis e cronogramas de viagens.
+* ⏰ **[Ponto Eletrônico (Monitoramento)](/monitoramento/ponto)** *(Painel)* — Painel de indicadores de assiduidade, horas extras e frequência das equipes.
+* 🛒 **[Compras ONGSYS](/monitoramento/compras)** *(Painel)* — Monitoramento de requisições de compras, cotações de fornecedores e andamento de entregas.
 
 ---
 

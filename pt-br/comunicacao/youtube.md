@@ -1,0 +1,36 @@
+---
+title: YouTube
+description: Canal oficial no YouTube do CDC
+published: true
+date: 2026-07-14T23:59:00.000Z
+tags: 'comunicacao, youtube'
+editor: markdown
+---
+
+# 📢 YouTube
+
+Canal oficial no YouTube do CDC.
+
+---
+
+## 🚀 [Acessar o YouTube](https://www.youtube.com/)
+
+---
+
+## 📚 Materiais de Aprendizado (Apostilas)
+
+* 📕 **[Apostila: Treinamento Inicial de YouTube]** — Guia básico de integração e primeiros passos.
+* 📖 **[Guia Rápido: Boas Práticas]** — Recomendações importantes sobre segurança e usabilidade.
+
+---
+
+## 📖 Tutoriais e Procedimentos
+
+* 📝 **[Como abrir chamados para o YouTube]** — Fluxo para reportar problemas de acesso ou bugs nesta ferramenta.
+* *(Espaço reservado para procedimentos específicos da organização - clique em Editar para alimentar).*
+
+---
+
+## 🔄 Atualizações e Avisos
+
+* **Julho de 2026:** Página do portal de sistemas ativada na Wiki do CDC.

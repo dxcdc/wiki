@@ -15,15 +15,15 @@ A equipe de Comunicação e Marketing do **Centro de Desenvolvimento e Cidadania
 
 ## 🔗 Atalhos de Acesso Rápido
 
-* 🌐 **[Site Oficial da CDC](https://cdc.org.br/)** *(Site)* — Portal público oficial de divulgação de projetos, editais e doação.
-* 🎨 **[Drive da Identidade Visual](https://drive.google.com/)** *(Mídia)* — Pasta com logotipos vetorizados, tipografias institucionais e modelos de posts.
-* 🏢 **[Espaço CDC](https://sites.google.com/)** *(Intranet)* — Portal do Google Sites para alinhamento interno de comunicados.
+* 🌐 **[Site Oficial da CDC](/comunicacao/site)** *(Site)* — Portal público oficial de divulgação de projetos, editais e doação.
+* 🎨 **[Drive da Identidade Visual](/comunicacao/drive)** *(Mídia)* — Pasta com logotipos vetorizados, tipografias institucionais e modelos de posts.
+* 🏢 **[Espaço CDC](/comunicacao/espaco)** *(Intranet)* — Portal do Google Sites para alinhamento interno de comunicados.
 
 ### Redes Sociais Institucionais
-* 📸 **[Instagram Oficial](https://www.instagram.com/)** — Canal oficial para engajamento e fotos do dia a dia da ONG.
-* 🔵 **[Facebook Oficial](https://www.facebook.com/)** — Canal oficial do CDC para compartilhamento de eventos e postagens.
-* 🔴 **[YouTube Oficial](https://www.youtube.com/)** — Canal oficial para lives, coberturas de projetos e vídeos institucionais.
-* 💼 **[LinkedIn Oficial](https://www.linkedin.com/)** — Perfil institucional de conexões corporativas e captação de talentos.
+* 📸 **[Instagram Oficial](/comunicacao/instagram)** — Canal oficial para engajamento e fotos do dia a dia da ONG.
+* 🔵 **[Facebook Oficial](/comunicacao/facebook)** — Canal oficial do CDC para compartilhamento de eventos e postagens.
+* 🔴 **[YouTube Oficial](/comunicacao/youtube)** — Canal oficial para lives, coberturas de projetos e vídeos institucionais.
+* 💼 **[LinkedIn Oficial](/comunicacao/linkedin)** — Perfil institucional de conexões corporativas e captação de talentos.
 
 ---
 
