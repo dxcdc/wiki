@@ -2,7 +2,7 @@
 title: Fluxos, Etapas e Status
 description: Documentação do sistema ONGSYS - CDC
 published: true
-date: 2026-07-16T06:02:17.167Z
+date: 2026-07-16T06:06:16.912Z
 tags: financeiro, ongsys, 08 fluxos etapas e status
 editor: markdown
 dateCreated: 2026-07-15T21:30:26.714Z
@@ -48,17 +48,19 @@ O registro foi criado pelo solicitante.
 - Requissição a Revisar
 
 <br>
+
 ### Etapa 05: Compras aprovadas
 - Cotação Aprovada
 - Requissição a Revisar 
 
 <br>
+
 ### Etapa 06: Pedidos finalizados
 - Ordem recebida
 
 <br><br>
 
-### Modelo Serviço - LOCAÇÃO DE VAN
+# Modelo Serviço - LOCAÇÃO DE VAN
 
 <br><br>
 
@@ -155,7 +157,6 @@ O registro foi criado pelo solicitante.
 
 > A linha do tempo conta a história do processo — Cada registro representa uma ação realizada dentro do sistema. Quando observados em conjunto, esses registros permitem entender como a solicitação avançou, quem participou e quais etapas foram necessárias até sua conclusão.
 {.is-info}
-
 
 ## Atividade simples para a apostila
 
