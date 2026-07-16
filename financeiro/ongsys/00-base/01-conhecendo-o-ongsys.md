@@ -2,7 +2,7 @@
 title: Conhecendo o ONGSYS
 description: Documentação do sistema ONGSYS - CDC
 published: true
-date: 2026-07-16T00:28:41.348Z
+date: 2026-07-16T04:02:39.710Z
 tags: financeiro, ongsys, 01 conhecendo o ongsys
 editor: markdown
 dateCreated: 2026-07-15T21:30:13.322Z
@@ -22,8 +22,12 @@ Os registros realizados no sistema permitem acompanhar:
 
 > **Regra do CDC: Prestação de Contas**
 > Todas as informações inseridas no ONGSYS são utilizadas em auditorias, relatórios de impacto social e na prestação de contas aos parceiros institucionais. Registros incompletos ou inadequados atrasam repasses financeiros.
+{.is-success}
+
 
 > **Atenção: Uso de Acessos**
 > Suas credenciais de login são estritamente pessoais e intransferíveis. Qualquer registro ou alteração feita sob a sua conta é de sua inteira responsabilidade.
+{.is-warning}
+
 
 > **Pendente de validação:** Aguardando integração automática com sistemas bancários no fluxo atual da CDC.
