@@ -6,6 +6,22 @@ Utilize este guia como referência para futuras revisões, mantendo o foco e a e
 
 ---
 
+## 🧭 Lição Aprendida: O Viés Humano e o Modelo Híbrido de Escrita
+
+Escrever um manual como um **diálogo** ou conversa interativa é uma escolha de design instrucional legítima e muito humana. Ela nasce de um viés positivo: a empatia. A intenção é reduzir a distância e a frieza entre o leitor e a ferramenta complexa, simulando o acolhimento de um colega de trabalho ensinando o outro.
+
+No entanto, no contexto de sistemas ERP corporativos, precisamos equilibrar essa abordagem com a realidade de dois perfis de leitores:
+
+1. **O Aprendiz (Onboarding):** Aquele que está lendo a Wiki pela primeira vez. Para ele, o tom dialógico, as perguntas e o acolhimento reduzem a ansiedade cognitiva e aumentam a retenção.
+2. **O Usuário Sob Pressão (Referência Rápida):** Aquele que já conhece o sistema, mas está no meio de uma tarefa crítica (ex: um pagamento que precisa ser aprovado antes do horário de fechamento bancário). Esse usuário está sob estresse, tem pouca energia mental disponível e precisa achar o passo exato em segundos. Perguntas interativas ou textos longos nesse momento geram atrito e impaciência.
+
+### O Modelo Híbrido do CDC
+Para aproveitar a sabedoria e a empatia da sua escrita sem comprometer a eficiência na hora do aperto, adote o **Modelo Híbrido**:
+* **Introduções e Conceitos (Onde o Diálogo brilha):** Use o tom empático e perguntas retóricas para contextualizar e aproximar. Ex: *"Por que classificar corretamente o Centro de Custo é o primeiro passo para o sucesso do projeto? Porque..."*
+* **Procedimentos e Passo a Passo (Onde a Ação domina):** Quando chegar nas instruções de cliques e campos, mude para um formato puramente procedimental, direto e altamente escaneável visualmente (listas numeradas, tabelas e alertas rápidos).
+
+---
+
 ## 1. Diretriz Editorial: O Tom de Voz do CDC
 
 O tom de voz ideal para a documentação é o **Corporativo Amigável**. Ele une a precisão e a seriedade necessárias em um ambiente de auditoria com a clareza e acessibilidade indispensáveis para o aprendizado rápido.
