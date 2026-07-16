@@ -1,0 +1,73 @@
+# Análise Crítica e Guia de Redação Técnica: Wiki ONGSYS (CDC)
+
+Este documento reúne a análise crítica e as diretrizes práticas de redação técnica e arquitetura de informação para a base de conhecimento do **ONGSYS** no **CDC**. 
+
+Utilize este guia como referência para futuras revisões, mantendo o foco e a empolgação no desenvolvimento dos conteúdos!
+
+---
+
+## 1. Diretriz Editorial: O Tom de Voz do CDC
+
+O tom de voz ideal para a documentação é o **Corporativo Amigável**. Ele une a precisão e a seriedade necessárias em um ambiente de auditoria com a clareza e acessibilidade indispensáveis para o aprendizado rápido.
+
+### Tabela de Conversão de Tom (De: Pessoal/Coloquial ➔ Para: Corporativo Amigável)
+
+| Tom Coloquial / Escolar | Tom Corporativo Amigável | Objetivo da Mudança |
+| :--- | :--- | :--- |
+| *"...mande um oi em nossos canais apropriados de chat."* | *"...reporte a ocorrência no canal de suporte do Mattermost (#suporte-financeiro) ou abra um chamado."* | Fornece instruções claras e caminhos oficiais em vez de ações vagas. |
+| *"...para refletir: você conseguiria identificar...?"* | *"...**Critério de validação:** Certifique-se de que os seguintes dados estão visíveis no cabeçalho..."* | Elimina o tom de questionário escolar e foca na validação prática do trabalho. |
+| *"...onde o ONGSYS não chega..."* | *"...**Limitação de Escopo:** O controle físico de materiais e almoxarifado é realizado no sistema..."* | Substitui metáforas coloquiais por termos técnicos de documentação. |
+| *"...se notar algo estranho..."* | *"...caso identifique divergências cadastrais ou valores incompatíveis..."* | Aumenta a precisão técnica na identificação de erros. |
+
+---
+
+## 2. Estrutura e Escopo Instrucional (Evitando Desvios)
+
+Cada página da Wiki deve responder a uma necessidade imediata do colaborador. Evite transformar a documentação do sistema em cursos teóricos de conceitos gerais.
+
+* **Foco no Sistema:** Em vez de ensinar conceitos avançados de "como limpar dados de planilhas", o manual de **Relatórios** deve focar exclusivamente em:
+  1. Caminho de menus para acessar o gerador de relatórios.
+  2. Como selecionar os filtros ativos (Período, Centro de Custo).
+  3. Como extrair o arquivo (clicando no botão "Exportar para Excel").
+  4. O que fazer com o relatório extraído no fluxo do CDC.
+* **Modularização:** Caso um assunto conceitual seja muito rico e importante, crie um documento separado para ele (ex: um *Guia Geral de Excel* ou *Fundamentos Contábeis do Terceiro Setor*), evitando que o manual de uso do sistema fique longo ou cansativo.
+
+---
+
+## 3. Padrões de Estilo do Wiki.js
+
+### Alertas Visuais (Markdown Containers)
+A utilização de containers com classes (como `{.is-warning}`) é excelente para quebrar a monotonia do texto e destacar pontos críticos. Mantenha os seguintes padrões:
+
+```markdown
+> **Informação: [Título da Dica]**
+> Conteúdo complementar ou atalhos úteis.
+{.is-info}
+
+> **Regra do CDC: [Norma Obrigatória]**
+> Diretrizes internas, regulamentos e prestação de contas.
+{.is-success}
+
+> **Atenção: [Cuidado Crítico]**
+> Ações que exigem atenção redobrada para evitar erros no lançamento.
+{.is-warning}
+
+> **Não Faça: [Risco de Inconsistência]**
+> Bloqueios e ações proibidas que podem gerar retrabalho ou falhas de auditoria.
+{.is-danger}
+```
+
+### Caminho das Imagens (Favicons e Prints)
+No Wiki.js, arquivos de imagens ou anexos que são commitados no Git são servidos em um diretório virtual público chamado **`/assets/`**. 
+* **Regra de Link de Imagem:** Sempre insira o prefixo `/assets/` antes do caminho da pasta do repositório no seu link markdown.
+  * *Incorreto:* `![](/img/ongsys/base/tela_de_login.png)`
+  * *Correto:* `![](/assets/img/ongsys/base/tela_de_login.png)`
+
+---
+
+## 4. Plano de Polimento para a Fase Final
+
+Quando a escrita estiver concluída e os primeiros rascunhos de todos os níveis estiverem prontos, realize uma rodada de revisão focada em:
+1. **Padronização de Acessibilidade:** Testar se o tamanho de fonte configurado atende à leitura.
+2. **Revisão Ortográfica Geral:** Substituir quaisquer referências femininas residuais a siglas masculinas (ex: "na CDC" para "no CDC").
+3. **Limpeza de Links:** Verificar se todas as referências cruzadas direcionam para páginas existentes sem gerar caminhos duplicados.
