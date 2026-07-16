@@ -2,7 +2,7 @@
 title: ONGSYS - Nível Base
 description: Documentação do sistema ONGSYS - CDC
 published: true
-date: 2026-07-15T21:50:31.612Z
+date: 2026-07-16T07:06:36.566Z
 tags: financeiro, ongsys, 00 base
 editor: markdown
 dateCreated: 2026-07-15T21:30:11.213Z
@@ -13,6 +13,8 @@ dateCreated: 2026-07-15T21:30:11.213Z
 Este nível representa o conhecimento mínimo obrigatório que todos os colaboradores do **CDC** devem possuir sobre o ERP **ONGSYS**. 
 
 > **Regra Geral:** Conhecer um procedimento não significa possuir permissão para executá-lo. As permissões dependem do seu perfil de acesso.
+{.is-info}
+
 
 ## 📖 Conteúdo Disponível
 
