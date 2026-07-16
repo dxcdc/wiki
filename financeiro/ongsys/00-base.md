@@ -2,7 +2,7 @@
 title: ONGSYS - Nível Base
 description: Documentação do sistema ONGSYS - CDC
 published: true
-date: 2026-07-16T07:06:36.566Z
+date: 2026-07-16T07:06:37.808Z
 tags: financeiro, ongsys, 00 base
 editor: markdown
 dateCreated: 2026-07-15T21:30:11.213Z
