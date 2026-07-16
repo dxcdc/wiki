@@ -19,4 +19,4 @@ Nem todos os colaboradores do **CDC** visualizam as mesmas telas ou realizam as 
 > **Não faça: Compartilhamento de Perfis**
 > Nunca solicite ou use o login de um colega para executar um procedimento que você não tem permissão para realizar. Se precisar de acessos adicionais, faça a solicitação formal.
 
-> **Pendente de validação:** Confirmar a matriz de perfis e permissões da CDC no sistema para garantir que os nomes dos perfis batam com os cadastrados no banco de dados.
+> **Pendente de validação:** Confirmar a matriz de perfis e permissões do CDC no sistema para garantir que os nomes dos perfis batam com os cadastrados no banco de dados.

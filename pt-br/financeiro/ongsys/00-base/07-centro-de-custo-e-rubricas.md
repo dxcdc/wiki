@@ -22,4 +22,4 @@ Representam a natureza da despesa ou receita (o "que" está sendo pago).
 > **Atenção: Erro de Lançamento**
 > Selecionar o Centro de Custo ou a Rubrica incorreta gera relatórios orçamentários falsos e pode levar à rejeição de contas por parte de órgãos financiadores. Sempre confira estes campos antes de enviar a solicitação.
 
-> **Pendente de validação:** Solicitar a lista atualizada de todos os Centros de Custo e Rubricas da CDC para conferir os códigos cadastrados no ERP.
+> **Pendente de validação:** Solicitar a lista atualizada de todos os Centros de Custo e Rubricas do CDC para conferir os códigos cadastrados no ERP.

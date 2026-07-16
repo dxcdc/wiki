@@ -10,7 +10,7 @@ dateCreated: 2026-07-15T00:40:38.892Z
 
 # Diretrizes de Governança da Documentação (CDC Wiki)
 
-Este documento estabelece as regras permanentes de criação, organização, manutenção e evolução da documentação técnica do projeto Wiki.js da CDC.
+Este documento estabelece as regras permanentes de criação, organização, manutenção e evolução da documentação técnica do projeto Wiki.js do CDC.
 
 ---
 
@@ -224,7 +224,7 @@ Antes de submeter um merge de documentação, certifique-se de validar:
 
 ## Evolução futura
 
-Este framework documental reflete a arquitetura atual da CDC baseada no Wiki.js. Ele deve crescer e se adaptar dinamicamente conforme os requisitos de conformidade, novas ferramentas de automação ou mudanças estruturais do projeto.
+Este framework documental reflete a arquitetura atual do CDC baseada no Wiki.js. Ele deve crescer e se adaptar dinamicamente conforme os requisitos de conformidade, novas ferramentas de automação ou mudanças estruturais do projeto.
 
 ---
 Última revisão: 2026-07-13

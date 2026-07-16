@@ -16,7 +16,7 @@ Este documento contém os procedimentos operacionais para acesso SSH seguro, dia
 
 ## Acesso SSH seguro
 
-O acesso ao servidor VPS da CDC deve seguir políticas rígidas de segurança, abolindo autenticação por senha em favor de chaves criptográficas.
+O acesso ao servidor VPS do CDC deve seguir políticas rígidas de segurança, abolindo autenticação por senha em favor de chaves criptográficas.
 
 ### 1. Geração de Chave ED25519 Segura
 Em seu computador local, gere um par de chaves usando o algoritmo ED25519 (mais seguro e rápido que RSA):

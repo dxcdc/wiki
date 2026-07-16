@@ -10,7 +10,7 @@ dateCreated: 2026-07-15T00:40:46.775Z
 
 # Plano de Personalização e Integração (CDC Wiki)
 
-Este documento atua como um guia estratégico e roteiro de implementação para futuras personalizações estéticas, integrações com serviços externos e automações adicionais no Wiki.js da CDC.
+Este documento atua como um guia estratégico e roteiro de implementação para futuras personalizações estéticas, integrações com serviços externos e automações adicionais no Wiki.js do CDC.
 
 ---
 
@@ -29,7 +29,7 @@ Este documento atua como um guia estratégico e roteiro de implementação para 
 ## 1. Identidade Visual e Branding
 
 ### Objetivo:
-Alinhar a aparência do Wiki.js com a marca oficial da CDC para criar um ambiente corporativo coeso e amigável.
+Alinhar a aparência do Wiki.js com a marca oficial do CDC para criar um ambiente corporativo coeso e amigável.
 
 ### Ações Técnicas:
 - **Logotipo e Favicon:** Substituir as imagens padrões nas opções do painel administrativo (`Administração -> Geral -> Aparência`).
@@ -42,7 +42,7 @@ Alinhar a aparência do Wiki.js com a marca oficial da CDC para criar um ambient
     --theme-dark-bg: #1E1E1E;
   }
   ```
-- **Customização do Tema:** Habilitar ou forçar o tema escuro padrão para toda a equipe, mantendo a consistência visual com os outros sistemas da CDC.
+- **Customização do Tema:** Habilitar ou forçar o tema escuro padrão para toda a equipe, mantendo a consistência visual com os outros sistemas do CDC.
 
 ---
 
@@ -58,7 +58,7 @@ Aproveitar o recurso nativo do Wiki.js para que todas as páginas criadas ou alt
 4. Caso um arquivo `.md` seja editado e sofrer `git push` direto no GitHub, o Wiki.js fará o `git pull` e sincronizará a alteração no site automaticamente.
 
 ### Requisitos:
-- Criação de uma chave de deploy (Deploy Key) ou token de acesso pessoal (PAT) no repositório GitHub da CDC.
+- Criação de uma chave de deploy (Deploy Key) ou token de acesso pessoal (PAT) no repositório GitHub do CDC.
 - Ativação do módulo **Git** em `Administração -> Armazenamento -> Módulos de Armazenamento`.
 
 ---
@@ -69,7 +69,7 @@ Aproveitar o recurso nativo do Wiki.js para que todas as páginas criadas ou alt
 Evitar que imagens, vídeos e arquivos PDF enviados pelos usuários sobrecarreguem o banco de dados PostgreSQL, movendo a persistência física desses arquivos para um armazenamento de objetos externo.
 
 ### Ações Técnicas:
-- **Provedor:** Utilizar um serviço de Storage compatível com AWS S3 (como DigitalOcean Spaces, Backblaze B2 ou MinIO hospedado na própria infraestrutura da CDC).
+- **Provedor:** Utilizar um serviço de Storage compatível com AWS S3 (como DigitalOcean Spaces, Backblaze B2 ou MinIO hospedado na própria infraestrutura do CDC).
 - **Módulo:** Configurar o driver **S3** no painel administrativo (`Administração -> Armazenamento -> Módulos de Armazenamento`), informando as chaves de API, o nome do bucket e a região.
 
 ---
@@ -77,7 +77,7 @@ Evitar que imagens, vídeos e arquivos PDF enviados pelos usuários sobrecarregu
 ## 4. Autenticação Centralizada e SSO (OAuth2 / Google / GitHub)
 
 ### Objetivo:
-Permitir que a equipe da CDC faça login no Wiki utilizando contas corporativas já existentes (como Google Workspace, GitHub ou servidor Keycloak interno), sem a necessidade de criar e gerenciar senhas locais.
+Permitir que a equipe do CDC faça login no Wiki utilizando contas corporativas já existentes (como Google Workspace, GitHub ou servidor Keycloak interno), sem a necessidade de criar e gerenciar senhas locais.
 
 ### Módulos de Autenticação Disponíveis no Wiki.js:
 - **Google OAuth2:** Login social simples usando e-mails `@cdc.org.br`.
@@ -118,5 +118,5 @@ Monitorar o uso do Wiki.js para saber quais artigos são mais lidos, quais termo
 ### Integrações:
 - Configurar injeção de script de análise na seção de cabeçalho (`HTML Head`) no painel administrativo do Wiki.js.
 - **Plataformas Sugeridas:**
-  - **Matomo / Plausible:** Soluções open-source focadas em privacidade que podem ser hospedadas diretamente em Docker na infraestrutura da CDC.
+  - **Matomo / Plausible:** Soluções open-source focadas em privacidade que podem ser hospedadas diretamente em Docker na infraestrutura do CDC.
   - **Google Analytics:** Padrão de mercado para rastreamento de uso básico.

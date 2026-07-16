@@ -20,4 +20,4 @@ Os recebimentos englobam repasses de convênios, doações e devoluções. Em ca
 > **Não faça: Pagamentos Sem Registro**
 > Nenhum pagamento pode ser realizado por fora do ERP. A tesouraria não efetuará transferências bancárias se a solicitação não estiver aprovada e registrada no ONGSYS.
 
-> **Pendente de validação:** Validar se a integração com os bancos da CDC permite a exportação de arquivos de remessa automática.
+> **Pendente de validação:** Validar se a integração com os bancos do CDC permite a exportação de arquivos de remessa automática.

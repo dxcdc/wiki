@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2026-07-15T00:56:33.685Z
 ---
 
-# Bem-vindo à Wiki da CDC! 🚀
+# Bem-vindo à Wiki do CDC! 🚀
 
 Este é o **Portal de Conhecimento e Integração do Centro de Desenvolvimento e Cidadania (CDC)**. Nossa Wiki foi criada com o objetivo de centralizar, preservar e compartilhar o conhecimento coletivo da nossa organização. Aqui você encontrará os acessos diretos para todas as ferramentas do nosso ecossistema e tutoriais passo a passo sobre os processos de cada departamento.
 
@@ -64,7 +64,7 @@ Este é o **Portal de Conhecimento e Integração do Centro de Desenvolvimento e
 ### 📢 [Comunicação e Redes Sociais](/comunicacao)
 *Canais oficiais, repositórios de mídia e perfis de redes sociais.*
 
-* 🌐 **[Site Oficial da CDC](/comunicacao/site)** *(Site)* — Portal público institucional da organização.
+* 🌐 **[Site Oficial do CDC](/comunicacao/site)** *(Site)* — Portal público institucional da organização.
 * 🎨 **[Drive da Identidade Visual](/comunicacao/drive)** *(Mídia)* — Pasta com logos, cores da marca e templates de apresentação.
 * 🏢 **[Espaço CDC](/comunicacao/espaco)** *(Intranet)* — Portal interno de comunicados rápidos para a equipe.
 * 📸 **[Instagram](/comunicacao/instagram)** | 🔵 **[Facebook](/comunicacao/facebook)** | 🔴 **[YouTube](/comunicacao/youtube)** | 💼 **[LinkedIn](/comunicacao/linkedin)** *(Redes Sociais)* — Nossos canais institucionais de comunicação.
@@ -99,7 +99,7 @@ Este é o **Portal de Conhecimento e Integração do Centro de Desenvolvimento e
 ### 🎓 [Educa](/educa)
 *Ambiente Virtual de Aprendizagem (LMS) da Rede Educa.*
 
-* 🏫 **[Rede Educa](/educa/rede-educa)** *(Educação)* — Plataforma de Ensino a Distância (AVA/LMS) da CDC.
+* 🏫 **[Rede Educa](/educa/rede-educa)** *(Educação)* — Plataforma de Ensino a Distância (AVA/LMS) do CDC.
 
 ---
 

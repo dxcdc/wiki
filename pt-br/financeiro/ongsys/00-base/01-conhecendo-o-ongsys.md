@@ -25,4 +25,4 @@ Os registros realizados no sistema permitem acompanhar:
 > **Atenção: Uso de Acessos**
 > Suas credenciais de login são estritamente pessoais e intransferíveis. Qualquer registro ou alteração feita sob a sua conta é de sua inteira responsabilidade.
 
-> **Pendente de validação:** Confirmar se há processos de integração automática com sistemas bancários no fluxo atual da CDC.
+> **Pendente de validação:** Confirmar se há processos de integração automática com sistemas bancários no fluxo atual do CDC.

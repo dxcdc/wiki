@@ -1,5 +1,5 @@
 ---
-title: Site Oficial da CDC
+title: Site Oficial do CDC
 description: Portal público oficial de divulgação de projetos, editais e doações do CDC
 published: true
 date: 2026-07-15T21:49:54.921Z
@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2026-07-15T03:29:47.823Z
 ---
 
-# 📢 Site Oficial da CDC
+# 📢 Site Oficial do CDC
 
 Portal público oficial de divulgação de projetos, editais e doações do CDC.
 
@@ -21,14 +21,14 @@ Portal público oficial de divulgação de projetos, editais e doações do CDC.
 
 ## 📚 Materiais de Aprendizado (Apostilas)
 
-* 📕 **[Apostila: Treinamento Inicial de Site Oficial da CDC]** — Guia básico de integração e primeiros passos.
+* 📕 **[Apostila: Treinamento Inicial de Site Oficial do CDC]** — Guia básico de integração e primeiros passos.
 * 📖 **[Guia Rápido: Boas Práticas]** — Recomendações importantes sobre segurança e usabilidade.
 
 ---
 
 ## 📖 Tutoriais e Procedimentos
 
-* 📝 **[Como abrir chamados para o Site Oficial da CDC]** — Fluxo para reportar problemas de acesso ou bugs nesta ferramenta.
+* 📝 **[Como abrir chamados para o Site Oficial do CDC]** — Fluxo para reportar problemas de acesso ou bugs nesta ferramenta.
 * *(Espaço reservado para procedimentos específicos da organização - clique em Editar para alimentar).*
 
 ---

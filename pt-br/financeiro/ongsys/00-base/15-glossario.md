@@ -21,4 +21,4 @@ Lista de termos e siglas comumente utilizados no ERP ONGSYS e nos processos do *
 * **Competência:** O período (mês/ano) de ocorrência real da despesa ou receita.
 * **Vencimento:** Data limite para pagamento de uma obrigação financeira.
 
-> **Pendente de validação:** Adicionar siglas específicas do estatuto da CDC ao glossário se necessário.
+> **Pendente de validação:** Adicionar siglas específicas do estatuto do CDC ao glossário se necessário.

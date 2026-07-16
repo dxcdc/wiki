@@ -15,7 +15,7 @@ A equipe de Comunicação e Marketing do **Centro de Desenvolvimento e Cidadania
 
 ## 🔗 Atalhos de Acesso Rápido
 
-* 🌐 **[Site Oficial da CDC](/comunicacao/site)** *(Site)* — Portal público oficial de divulgação de projetos, editais e doação.
+* 🌐 **[Site Oficial do CDC](/comunicacao/site)** *(Site)* — Portal público oficial de divulgação de projetos, editais e doação.
 * 🎨 **[Drive da Identidade Visual](/comunicacao/drive)** *(Mídia)* — Pasta com logotipos vetorizados, tipografias institucionais e modelos de posts.
 * 🏢 **[Espaço CDC](/comunicacao/espaco)** *(Intranet)* — Portal do Google Sites para alinhamento interno de comunicados.
 

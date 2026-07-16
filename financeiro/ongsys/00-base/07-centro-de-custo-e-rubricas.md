@@ -25,6 +25,6 @@ Representam a natureza da despesa ou receita (o "que" está sendo pago).
 {.is-danger}
 
 
-> **Financeiro é o responsavel:** O time do financeiro tem a lista atualizada de todos os Centros de Custo e Rubricas da CDC, caso note algo estranho mande um oi em nossos canais apropriados de chat.
+> **Financeiro é o responsável:** O time do financeiro tem a lista atualizada de todos os Centros de Custo e Rubricas do CDC, caso note algo estranho mande um oi em nossos canais apropriados de chat.
 {.is-info}
 

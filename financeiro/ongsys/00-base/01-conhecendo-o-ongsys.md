@@ -30,4 +30,4 @@ Os registros realizados no sistema permitem acompanhar:
 {.is-warning}
 
 
-> **Pendente de validação:** Aguardando integração automática com sistemas bancários no fluxo atual da CDC.
+> **Pendente de validação:** Aguardando integração automática com sistemas bancários no fluxo atual do CDC.

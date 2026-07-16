@@ -22,4 +22,4 @@ Esta página explica o fluxo simplificado utilizado pelo **CDC** para a aquisiç
 > **Informação: Compra Aprovada**
 > Lembre-se: o status "Compra Aprovada" no sistema indica apenas que a despesa foi autorizada pela gerência. Isso não significa que o item já foi despachado ou entregue pelo fornecedor.
 
-> **Pendente de validação:** Confirmar os valores de limite de alçada que exigem cotação de 3 fornecedores na CDC.
+> **Pendente de validação:** Confirmar os valores de limite de alçada que exigem cotação de 3 fornecedores no CDC.

@@ -31,7 +31,7 @@ O departamento de Tecnologia da Informação (TI) do **Centro de Desenvolvimento
 
 ## 📖 Manuais e Tutoriais ("Como Fazer")
 
-Esta seção concentra os tutoriais técnicos e diretrizes de governança digital da CDC.
+Esta seção concentra os tutoriais técnicos e diretrizes de governança digital do CDC.
 
 ### 📋 Suporte Técnico e Chamados
 * **[Tutorial: Como abrir um chamado de suporte de TI no Monday]** — Guia para reportar falhas de internet, e-mail, hardware ou problemas de acesso a sistemas.

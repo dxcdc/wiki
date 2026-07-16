@@ -10,7 +10,7 @@ dateCreated: 2026-07-15T00:40:52.063Z
 
 # Diretrizes e Modelo de Postmortem (Blameless)
 
-Este documento orienta a realização de análises pós-incidentes na CDC. As investigações de problemas técnicos devem ser conduzidas sob uma **cultura sem culpabilização (blameless)**: o foco deve estar em identificar falhas de processo, melhorar os controles e robustecer a infraestrutura, nunca em punir indivíduos.
+Este documento orienta a realização de análises pós-incidentes no CDC. As investigações de problemas técnicos devem ser conduzidas sob uma **cultura sem culpabilização (blameless)**: o foco deve estar em identificar falhas de processo, melhorar os controles e robustecer a infraestrutura, nunca em punir indivíduos.
 
 ---
 

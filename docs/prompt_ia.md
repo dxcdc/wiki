@@ -10,7 +10,7 @@ dateCreated: 2026-07-15T00:40:53.770Z
 
 # Prompt de Contexto e Regras para Inteligência Artificial (CDC Wiki)
 
-Este arquivo fornece o contexto técnico unificado e regras de comportamento para assistentes de inteligência artificial que atuam no repositório CDC Wiki. O objetivo é evitar repetição de explicações contextuais e garantir conformidade rígida com os padrões operacionais da CDC.
+Este arquivo fornece o contexto técnico unificado e regras de comportamento para assistentes de inteligência artificial que atuam no repositório CDC Wiki. O objetivo é evitar repetição de explicações contextuais e garantir conformidade rígida com os padrões operacionais do CDC.
 
 ---
 
