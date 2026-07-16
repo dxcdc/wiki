@@ -2,9 +2,10 @@
 title: Vale Transporte Caruaru (LEVA)
 description: Gestão de vale-transporte para a região de Caruaru
 published: true
-date: 2026-07-14T23:59:00.000Z
-tags: 'rh, leva'
+date: 2026-07-15T21:50:14.140Z
+tags: rh, leva
 editor: markdown
+dateCreated: 2026-07-15T03:30:41.844Z
 ---
 
 # 👥 Vale Transporte Caruaru (LEVA)

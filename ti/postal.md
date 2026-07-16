@@ -2,9 +2,10 @@
 title: Postal
 description: Plataforma de entrega e disparo de e-mails transacionais e em massa do CDC
 published: true
-date: 2026-07-15T01:33:00.000Z
-tags: 'ti, postal'
+date: 2026-07-15T21:50:29.130Z
+tags: ti, postal
 editor: markdown
+dateCreated: 2026-07-15T04:37:02.793Z
 ---
 
 # ✉️ Postal (Serviço de E-mail)

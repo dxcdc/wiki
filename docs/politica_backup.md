@@ -2,7 +2,7 @@
 title: politica_backup
 description: 
 published: true
-date: 2026-07-15T01:00:23.835Z
+date: 2026-07-15T21:49:22.543Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-15T00:40:48.613Z

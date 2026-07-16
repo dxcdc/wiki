@@ -2,7 +2,7 @@
 title: Perfis e Permissões
 description: Documentação do sistema ONGSYS - CDC
 published: true
-date: 2026-07-16T06:36:34.568Z
+date: 2026-07-16T06:36:35.857Z
 tags: financeiro, ongsys, 03 perfis e permissoes
 editor: markdown
 dateCreated: 2026-07-15T21:30:16.941Z

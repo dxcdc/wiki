@@ -2,9 +2,10 @@
 title: ONGSYS
 description: ERP integrado de gestão financeira, contabilidade e prestação de contas do CDC
 published: true
-date: 2026-07-15T17:20:00.000Z
-tags: 'financeiro, ongsys'
+date: 2026-07-15T21:49:58.452Z
+tags: financeiro, ongsys
 editor: markdown
+dateCreated: 2026-07-15T03:24:46.996Z
 ---
 
 # 📊 ONGSYS (ERP Financeiro)

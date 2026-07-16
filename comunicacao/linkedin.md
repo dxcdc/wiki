@@ -2,9 +2,10 @@
 title: LinkedIn
 description: Página oficial do CDC no LinkedIn
 published: true
-date: 2026-07-14T23:59:00.000Z
-tags: 'comunicacao, linkedin'
+date: 2026-07-15T21:49:53.833Z
+tags: comunicacao, linkedin
 editor: markdown
+dateCreated: 2026-07-15T03:29:46.194Z
 ---
 
 # 📢 LinkedIn

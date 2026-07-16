@@ -2,8 +2,10 @@
 title: EZ Point
 description: Controle de ponto eletrônico do CDC
 published: true
-date: 2026-07-14T23:59:00.000Z
-tags: 'rh, ezpoint'editor: markdown
+date: 2026-07-15T21:50:10.699Z
+tags: rh, ezpoint
+editor: markdown
+dateCreated: 2026-07-15T03:25:00.046Z
 ---
 
 # ⏰ EZ Point (Controle de Ponto)

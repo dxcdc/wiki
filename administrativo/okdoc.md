@@ -2,9 +2,10 @@
 title: OKDOC
 description: Gestão eletrônica de documentos (GED) físicos e digitalização do CDC
 published: true
-date: 2026-07-14T23:59:00.000Z
-tags: 'administrativo, okdoc'
+date: 2026-07-15T21:49:47.684Z
+tags: administrativo, okdoc
 editor: markdown
+dateCreated: 2026-07-15T03:29:36.643Z
 ---
 
 # 💼 OKDOC

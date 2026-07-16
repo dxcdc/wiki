@@ -2,9 +2,10 @@
 title: Instagram
 description: Canal institucional oficial no Instagram do CDC
 published: true
-date: 2026-07-14T23:59:00.000Z
-tags: 'comunicacao, instagram'
+date: 2026-07-15T21:49:52.691Z
+tags: comunicacao, instagram
 editor: markdown
+dateCreated: 2026-07-15T03:29:44.543Z
 ---
 
 # 📢 Instagram

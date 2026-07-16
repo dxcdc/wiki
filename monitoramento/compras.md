@@ -2,9 +2,10 @@
 title: Compras ONGSYS
 description: Painel de acompanhamento de requisições de compras e cotações de fornecedores
 published: true
-date: 2026-07-14T23:59:00.000Z
-tags: 'monitoramento, compras'
+date: 2026-07-15T21:49:59.626Z
+tags: monitoramento, compras
 editor: markdown
+dateCreated: 2026-07-15T03:29:55.308Z
 ---
 
 # 📊 Compras ONGSYS

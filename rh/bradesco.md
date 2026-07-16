@@ -2,9 +2,10 @@
 title: Plano de Saúde (Bradesco)
 description: Rede credenciada de hospitais, reembolso e consultas do plano Bradesco Saúde
 published: true
-date: 2026-07-14T23:59:00.000Z
-tags: 'rh, bradesco'
+date: 2026-07-15T21:50:06.979Z
+tags: rh, bradesco
 editor: markdown
+dateCreated: 2026-07-15T03:30:34.785Z
 ---
 
 # 👥 Plano de Saúde (Bradesco)

@@ -2,9 +2,10 @@
 title: SESI Viva+
 description: Programas de saúde ocupacional, medicina do trabalho e bem-estar do colaborador
 published: true
-date: 2026-07-14T23:59:00.000Z
-tags: 'rh, sesivivamais'
+date: 2026-07-15T21:50:16.501Z
+tags: rh, sesivivamais
 editor: markdown
+dateCreated: 2026-07-15T03:30:45.262Z
 ---
 
 # 👥 SESI Viva+

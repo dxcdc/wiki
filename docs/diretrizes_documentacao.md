@@ -2,7 +2,7 @@
 title: diretrizes_documentacao
 description: 
 published: true
-date: 2026-07-15T01:00:18.085Z
+date: 2026-07-15T21:49:17.325Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-15T00:40:38.892Z

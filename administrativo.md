@@ -2,9 +2,10 @@
 title: Administrativo
 description: Gestão de documentos, frotas e logística do CDC
 published: true
-date: 2026-07-14T22:25:00.000Z
-tags: 'administrativo'
+date: 2026-07-15T21:49:33.197Z
+tags: administrativo
 editor: markdown
+dateCreated: 2026-07-15T01:40:26.525Z
 ---
 
 # 💼 Administrativo

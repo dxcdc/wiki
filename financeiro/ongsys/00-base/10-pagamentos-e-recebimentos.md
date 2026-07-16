@@ -2,7 +2,7 @@
 title: Pagamentos e Recebimentos
 description: Documentação do sistema ONGSYS - CDC
 published: true
-date: 2026-07-16T06:14:15.135Z
+date: 2026-07-16T06:14:16.310Z
 tags: financeiro, ongsys, 10 pagamentos e recebimentos
 editor: markdown
 dateCreated: 2026-07-15T21:30:30.435Z

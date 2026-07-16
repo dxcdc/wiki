@@ -2,7 +2,7 @@
 title: Fluxos, Etapas e Status
 description: Documentação do sistema ONGSYS - CDC
 published: true
-date: 2026-07-16T06:06:16.912Z
+date: 2026-07-16T06:06:18.082Z
 tags: financeiro, ongsys, 08 fluxos etapas e status
 editor: markdown
 dateCreated: 2026-07-15T21:30:26.714Z

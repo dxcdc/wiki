@@ -2,9 +2,10 @@
 title: Educa
 description: Portal de capacitação, formação e cursos da Rede Educa do CDC
 published: true
-date: 2026-07-14T22:25:00.000Z
-tags: 'educa'
+date: 2026-07-15T21:49:35.499Z
+tags: educa
 editor: markdown
+dateCreated: 2026-07-15T01:40:29.824Z
 ---
 
 # 🎓 Educa

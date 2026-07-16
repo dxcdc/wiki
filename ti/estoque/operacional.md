@@ -2,9 +2,10 @@
 title: Estoque TI - Operacional
 description: Manual operacional do sistema de estoque do CDC
 published: true
-date: 2026-07-14T23:50:00.000Z
-tags: 'ti, estoque, operacional'
+date: 2026-07-15T21:50:39.895Z
+tags: ti, operacional, estoque
 editor: markdown
+dateCreated: 2026-07-15T03:30:56.432Z
 ---
 
 # 💼 Estoque TI — Nível Operacional

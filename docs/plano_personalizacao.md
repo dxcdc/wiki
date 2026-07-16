@@ -2,7 +2,7 @@
 title: plano_personalizacao
 description: 
 published: true
-date: 2026-07-15T01:00:22.472Z
+date: 2026-07-15T21:49:21.310Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-15T00:40:46.775Z

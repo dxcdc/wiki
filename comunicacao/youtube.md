@@ -2,9 +2,10 @@
 title: YouTube
 description: Canal oficial no YouTube do CDC
 published: true
-date: 2026-07-14T23:59:00.000Z
-tags: 'comunicacao, youtube'
+date: 2026-07-15T21:49:56.065Z
+tags: comunicacao, youtube
 editor: markdown
+dateCreated: 2026-07-15T03:29:49.594Z
 ---
 
 # 📢 YouTube

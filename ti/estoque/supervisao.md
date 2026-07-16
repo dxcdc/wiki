@@ -2,9 +2,10 @@
 title: Estoque TI - Supervisão
 description: Manual do nível de supervisão do estoque de hardware do CDC
 published: true
-date: 2026-07-14T23:50:00.000Z
-tags: 'ti, estoque, supervisao'
+date: 2026-07-15T21:50:41.000Z
+tags: ti, supervisao, estoque
 editor: markdown
+dateCreated: 2026-07-15T03:30:58.242Z
 ---
 
 # 📈 Estoque TI — Supervisão / Gerência

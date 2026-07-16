@@ -2,9 +2,10 @@
 title: Plano Odontológico (Porto Seguro)
 description: Rede de consultórios odontológicos e carteirinha virtual Porto Odonto
 published: true
-date: 2026-07-14T23:59:00.000Z
-tags: 'rh, portoseguro'
+date: 2026-07-15T21:50:15.364Z
+tags: rh, portoseguro
 editor: markdown
+dateCreated: 2026-07-15T03:30:43.433Z
 ---
 
 # 👥 Plano Odontológico (Porto Seguro)

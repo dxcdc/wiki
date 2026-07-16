@@ -2,9 +2,10 @@
 title: MaxiFrota
 description: Controle de abastecimento, manutenção e faturamento da frota de veículos
 published: true
-date: 2026-07-14T23:59:00.000Z
-tags: 'administrativo, maxifrota'
+date: 2026-07-15T21:49:46.512Z
+tags: administrativo, maxifrota
 editor: markdown
+dateCreated: 2026-07-15T03:29:34.643Z
 ---
 
 # 💼 MaxiFrota

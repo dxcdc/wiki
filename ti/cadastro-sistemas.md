@@ -2,9 +2,10 @@
 title: Cadastro de Sistemas
 description: Solicitação para criação de novos usuários e alteração de níveis de permissão em sistemas do CDC
 published: true
-date: 2026-07-14T23:59:00.000Z
-tags: 'ti, cadastro-sistemas'
+date: 2026-07-15T21:50:19.817Z
+tags: ti, cadastro-sistemas
 editor: markdown
+dateCreated: 2026-07-15T03:30:51.846Z
 ---
 
 # 🛠️ Cadastro de Sistemas

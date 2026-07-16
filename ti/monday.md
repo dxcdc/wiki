@@ -2,9 +2,10 @@
 title: Gestão de Demandas (Monday)
 description: Plataforma de abertura de chamados e suporte técnico da TI do CDC
 published: true
-date: 2026-07-14T23:59:00.000Z
-tags: 'ti, monday'
+date: 2026-07-15T21:50:28.060Z
+tags: ti, monday
 editor: markdown
+dateCreated: 2026-07-15T03:31:06.650Z
 ---
 
 # 🛠️ Gestão de Demandas (Monday)

@@ -2,9 +2,10 @@
 title: Vale Transporte Recife
 description: Solicitação e recargas de passes de transporte VEM (Grande Recife)
 published: true
-date: 2026-07-14T23:59:00.000Z
-tags: 'rh, vem'
+date: 2026-07-15T21:50:18.717Z
+tags: rh, vem
 editor: markdown
+dateCreated: 2026-07-15T03:30:48.845Z
 ---
 
 # 👥 Vale Transporte Recife

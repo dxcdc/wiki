@@ -2,7 +2,7 @@
 title: Relatórios
 description: Documentação do sistema ONGSYS - CDC
 published: true
-date: 2026-07-16T07:01:42.604Z
+date: 2026-07-16T07:01:44.745Z
 tags: financeiro, ongsys, 12 relatorios
 editor: markdown
 dateCreated: 2026-07-15T21:30:34.561Z

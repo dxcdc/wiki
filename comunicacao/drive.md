@@ -2,9 +2,10 @@
 title: Drive da Identidade Visual
 description: Pasta compartilhada com logotipos, paleta de cores e templates de apresentação do CDC
 published: true
-date: 2026-07-14T23:59:00.000Z
-tags: 'comunicacao, drive'
+date: 2026-07-15T21:49:48.878Z
+tags: comunicacao, drive
 editor: markdown
+dateCreated: 2026-07-15T03:29:39.562Z
 ---
 
 # 📢 Drive da Identidade Visual

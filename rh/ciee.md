@@ -2,9 +2,10 @@
 title: CIEE
 description: Gestão de vagas, contratos e renovações de programas de estágio e aprendizagem
 published: true
-date: 2026-07-14T23:59:00.000Z
-tags: 'rh, ciee'
+date: 2026-07-15T21:50:09.500Z
+tags: rh, ciee
 editor: markdown
+dateCreated: 2026-07-15T03:30:36.710Z
 ---
 
 # 👥 CIEE

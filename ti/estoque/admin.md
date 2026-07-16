@@ -2,9 +2,10 @@
 title: Estoque TI - Admin
 description: Manual do administrador de sistema de estoque do CDC
 published: true
-date: 2026-07-14T23:50:00.000Z
-tags: 'ti, estoque, admin'
+date: 2026-07-15T21:50:38.787Z
+tags: ti, admin, estoque
 editor: markdown
+dateCreated: 2026-07-15T03:30:54.803Z
 ---
 
 # 🛠️ Estoque TI — Administradores de Sistema

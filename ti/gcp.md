@@ -2,9 +2,10 @@
 title: Console Google Cloud
 description: Painel de gerenciamento de recursos de nuvem corporativa da Google Workspace
 published: true
-date: 2026-07-14T23:59:00.000Z
-tags: 'ti, gcp'
+date: 2026-07-15T21:50:24.612Z
+tags: ti, gcp
 editor: markdown
+dateCreated: 2026-07-15T03:30:59.895Z
 ---
 
 # 🛠️ Console Google Cloud

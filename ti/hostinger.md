@@ -2,9 +2,10 @@
 title: Hostinger
 description: Gerenciador de hospedagens web e aplicações do CDC
 published: true
-date: 2026-07-14T23:59:00.000Z
-tags: 'ti, hostinger'
+date: 2026-07-15T21:50:25.818Z
+tags: ti, hostinger
 editor: markdown
+dateCreated: 2026-07-15T03:31:02.745Z
 ---
 
 # 🛠️ Hostinger

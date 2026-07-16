@@ -2,9 +2,10 @@
 title: Site Oficial da CDC
 description: Portal público oficial de divulgação de projetos, editais e doações do CDC
 published: true
-date: 2026-07-14T23:59:00.000Z
-tags: 'comunicacao, site'
+date: 2026-07-15T21:49:54.921Z
+tags: comunicacao, site
 editor: markdown
+dateCreated: 2026-07-15T03:29:47.823Z
 ---
 
 # 📢 Site Oficial da CDC

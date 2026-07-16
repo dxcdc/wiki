@@ -2,7 +2,7 @@
 title: Conceitos Financeiros
 description: Documentação do sistema ONGSYS - CDC
 published: true
-date: 2026-07-16T04:01:15.312Z
+date: 2026-07-16T04:01:16.553Z
 tags: financeiro, ongsys, 05 conceitos financeiros
 editor: markdown
 dateCreated: 2026-07-15T21:30:20.908Z

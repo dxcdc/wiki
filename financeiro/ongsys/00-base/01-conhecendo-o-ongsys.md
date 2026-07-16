@@ -2,7 +2,7 @@
 title: Conhecendo o ONGSYS
 description: Documentação do sistema ONGSYS - CDC
 published: true
-date: 2026-07-16T04:02:39.710Z
+date: 2026-07-16T04:02:40.794Z
 tags: financeiro, ongsys, 01 conhecendo o ongsys
 editor: markdown
 dateCreated: 2026-07-15T21:30:13.322Z

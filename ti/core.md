@@ -2,9 +2,10 @@
 title: Core
 description: Central de ferramentas administrativas e controle de infraestrutura de TI do CDC
 published: true
-date: 2026-07-15T01:33:00.000Z
-tags: 'ti, core'
+date: 2026-07-15T21:50:22.098Z
+tags: ti, core
 editor: markdown
+dateCreated: 2026-07-15T04:37:00.490Z
 ---
 
 # ⚙️ Core (Central de TI)

@@ -2,9 +2,10 @@
 title: Sistema GAMBOA
 description: Monitoramento de metas operacionais e controle de relatórios de impacto de projetos sociais
 published: true
-date: 2026-07-14T23:59:00.000Z
-tags: 'rh, gamboa'
+date: 2026-07-15T21:50:11.793Z
+tags: rh, gamboa
 editor: markdown
+dateCreated: 2026-07-15T03:30:38.598Z
 ---
 
 # 👥 Sistema GAMBOA

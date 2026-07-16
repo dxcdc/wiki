@@ -2,9 +2,10 @@
 title: Espaço CDC
 description: Portal interno do Google Sites para alinhamento e comunicados rápidos para a equipe
 published: true
-date: 2026-07-14T23:59:00.000Z
-tags: 'comunicacao, espaco'
+date: 2026-07-15T21:49:50.195Z
+tags: comunicacao, espaco
 editor: markdown
+dateCreated: 2026-07-15T03:29:41.220Z
 ---
 
 # 📢 Espaço CDC

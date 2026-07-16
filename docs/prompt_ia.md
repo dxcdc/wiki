@@ -2,7 +2,7 @@
 title: prompt_ia
 description: 
 published: true
-date: 2026-07-15T01:00:26.823Z
+date: 2026-07-15T21:49:24.867Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-15T00:40:53.770Z

@@ -2,9 +2,10 @@
 title: KingHost
 description: Painel administrativo de e-mails corporativos da organização
 published: true
-date: 2026-07-14T23:59:00.000Z
-tags: 'ti, kinghost'
+date: 2026-07-15T21:50:26.944Z
+tags: ti, kinghost
 editor: markdown
+dateCreated: 2026-07-15T03:31:04.882Z
 ---
 
 # 🛠️ KingHost

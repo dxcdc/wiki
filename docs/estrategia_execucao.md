@@ -2,7 +2,7 @@
 title: estrategia_execucao
 description: 
 published: true
-date: 2026-07-15T01:00:19.603Z
+date: 2026-07-15T21:49:18.412Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-15T00:40:40.758Z

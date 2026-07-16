@@ -2,7 +2,7 @@
 title: Compras e Requisições
 description: Documentação do sistema ONGSYS - CDC
 published: true
-date: 2026-07-16T03:53:58.650Z
+date: 2026-07-16T03:54:00.471Z
 tags: financeiro, ongsys, 09 compras e requisicoes
 editor: markdown
 dateCreated: 2026-07-15T21:30:28.620Z

@@ -2,9 +2,10 @@
 title: ONGSYS - Nível Base / Integração
 description: Conceitos fundamentais e navegação básica no ERP ONGSYS para todos os usuários do CDC
 published: true
-date: 2026-07-15T17:20:00.000Z
-tags: 'financeiro, ongsys, base'
+date: 2026-07-15T21:49:43.825Z
+tags: financeiro, ongsys, base
 editor: markdown
+dateCreated: 2026-07-15T20:28:22.172Z
 ---
 
 # 📚 ONGSYS - Nível Base / Integração

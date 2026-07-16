@@ -2,9 +2,10 @@
 title: Cobli
 description: Monitoramento, rastreamento e telemetria de veículos em tempo real
 published: true
-date: 2026-07-14T23:59:00.000Z
-tags: 'administrativo, cobli'
+date: 2026-07-15T21:49:45.194Z
+tags: administrativo, cobli
 editor: markdown
+dateCreated: 2026-07-15T03:29:32.867Z
 ---
 
 # 💼 Cobli

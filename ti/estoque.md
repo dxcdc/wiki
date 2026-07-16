@@ -2,9 +2,10 @@
 title: Estoque TI
 description: Sistema de inventário físico e controle patrimonial de hardware do CDC
 published: true
-date: 2026-07-14T23:50:00.000Z
-tags: 'ti, estoque'
+date: 2026-07-15T21:50:23.393Z
+tags: ti, estoque
 editor: markdown
+dateCreated: 2026-07-15T03:25:04.060Z
 ---
 
 # 💻 Estoque TI (Inventário de Ativos)

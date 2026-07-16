@@ -2,7 +2,7 @@
 title: ajuda_infra
 description: 
 published: true
-date: 2026-07-15T01:00:16.266Z
+date: 2026-07-15T21:49:16.002Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-15T00:40:35.637Z

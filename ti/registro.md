@@ -2,9 +2,10 @@
 title: Registro.br
 description: Administração oficial de domínios .org.br da instituição
 published: true
-date: 2026-07-14T23:59:00.000Z
-tags: 'ti, registro'
+date: 2026-07-15T21:50:30.277Z
+tags: ti, registro
 editor: markdown
+dateCreated: 2026-07-15T03:31:08.415Z
 ---
 
 # 🛠️ Registro.br

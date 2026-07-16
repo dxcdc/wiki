@@ -2,7 +2,7 @@
 title: Cadastros Básicos
 description: Documentação do sistema ONGSYS - CDC
 published: true
-date: 2026-07-16T03:09:10.480Z
+date: 2026-07-16T03:09:11.987Z
 tags: financeiro, ongsys, 06 cadastros basicos
 editor: markdown
 dateCreated: 2026-07-15T21:30:22.988Z

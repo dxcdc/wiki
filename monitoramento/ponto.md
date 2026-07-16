@@ -2,9 +2,10 @@
 title: Ponto Eletrônico (Monitoramento)
 description: Painel consolidado de indicadores de assiduidade e frequências de equipes
 published: true
-date: 2026-07-14T23:59:00.000Z
-tags: 'monitoramento, ponto'
+date: 2026-07-15T21:50:01.843Z
+tags: monitoramento, ponto
 editor: markdown
+dateCreated: 2026-07-15T03:29:56.914Z
 ---
 
 # 📊 Ponto Eletrônico (Monitoramento)

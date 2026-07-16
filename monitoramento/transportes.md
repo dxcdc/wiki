@@ -2,9 +2,10 @@
 title: Sistema de Transportes
 description: Acompanhamento em tempo real de rotas logísticas e frotas de transporte do CDC
 published: true
-date: 2026-07-14T23:59:00.000Z
-tags: 'monitoramento, transportes'
+date: 2026-07-15T21:50:05.692Z
+tags: monitoramento, transportes
 editor: markdown
+dateCreated: 2026-07-15T03:29:58.609Z
 ---
 
 # 📊 Sistema de Transportes

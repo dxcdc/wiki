@@ -2,9 +2,10 @@
 title: Rede Educa
 description: Plataforma Moodle e Ambiente Virtual de Aprendizagem (LMS) do CDC
 published: true
-date: 2026-07-14T23:59:00.000Z
-tags: 'educa, rede-educa'
+date: 2026-07-15T21:49:57.218Z
+tags: educa, rede-educa
 editor: markdown
+dateCreated: 2026-07-15T03:29:52.452Z
 ---
 
 # 🎓 Rede Educa
