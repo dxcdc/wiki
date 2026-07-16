@@ -2,7 +2,7 @@
 title: Glossário de Termos
 description: Documentação do sistema ONGSYS - CDC
 published: true
-date: 2026-07-16T06:09:20.187Z
+date: 2026-07-16T06:10:45.370Z
 tags: financeiro, ongsys, 15 glossario
 editor: markdown
 dateCreated: 2026-07-15T21:30:40.609Z
@@ -22,4 +22,6 @@ Lista de termos e siglas comumente utilizados no ERP ONGSYS e nos processos do *
 * **Competência:** O período (mês/ano) de ocorrência real da despesa ou receita.
 * **Vencimento:** Data limite para pagamento de uma obrigação financeira.
 
-> **Esta faltando algo...** Nos avisa ai! Adicionar as siglas e uma tarefa que nao tem fim toda contribuição sera bem vinda!
+> **E... se estiver faltando algo...** 
+Nos avisa ai! Adicionar as siglas e uma tarefa que nao tem fim!
+Toda contribuição sera bem vinda! Contamos com vc!
