@@ -2,7 +2,7 @@
 title: Fluxos, Etapas e Status
 description: Documentação do sistema ONGSYS - CDC
 published: true
-date: 2026-07-16T05:53:24.223Z
+date: 2026-07-16T06:02:17.167Z
 tags: financeiro, ongsys, 08 fluxos etapas e status
 editor: markdown
 dateCreated: 2026-07-15T21:30:26.714Z
@@ -69,6 +69,18 @@ O registro foi criado pelo solicitante.
 
 <br>
 
+![hitotico_de_açoes.png](/img/ongsys/base/compras/hitotico_de_açoes.png)
+
+> **Processo na prática** — A imagem apresenta o histórico de ações de uma solicitação registrada no sistema. Cada movimentação informa quem realizou a ação, a data, o horário e o que aconteceu naquele momento. Ao acompanhar a sequência, podemos perceber como a requisição avança por diferentes etapas, passando pela criação, aprovações, cotação, pedido ao fornecedor e registros financeiros. Mais do que uma simples lista, esse histórico ajuda a reconstruir o caminho percorrido pelo processo e a compreender como diferentes pessoas e setores participam de sua execução.
+{.is-info}
+
+
+
+> Observe com atenção — Quais ações dependem de aprovação? Em que momento a requisição se transforma em pedido? E o que a geração de contas a pagar representa dentro desse fluxo?
+{.is-warning}
+
+
+
 ## Sobre a requisição
 
 > O início do processo — Toda solicitação começa com a criação de uma requisição. Nela, o usuário registra a necessidade da organização e encaminha as informações para análise e aprovação.
@@ -126,7 +138,7 @@ O registro foi criado pelo solicitante.
 
 ## Sobre o financeiro
 
-> Após a aprovação da cotação e o andamento do pedido, o processo pode chegar ao setor financeiro. Nessa fase, são realizados os registros necessários para organizar e preparar o pagamento relacionado à contratação ou à compra.
+> Após a aprovação da cotação e o andamento do pedido, o processo pode chegar ao setor financeiro. Nessa fase, são realizados os registros necessários para organizar e preparar o pagamento relacionado à contratação ou à compra.!
 
 > Registro financeiro do processo — A geração de contas a pagar indica que as informações da solicitação chegaram à etapa financeira. A partir desse registro, o pagamento pode seguir os procedimentos internos da organização.
 {.is-info}
