@@ -2,51 +2,32 @@
 title: Acompanhamento de Requisição
 description: Documentação do sistema ONGSYS - CDC
 published: true
-date: 2026-07-15T21:51:05.316Z
+date: 2026-07-20T19:21:27.341Z
 tags: financeiro, ongsys, 04 acompanhamento de requisicao
 editor: markdown
 dateCreated: 2026-07-15T21:30:51.365Z
 ---
 
 # Acompanhamento de Requisição
+Dentro da mesma tela podemos realizar a pensquisa de algum processo em
+questao porem o conjunto / combinação de campos ira resultar no sucesso 
+da localizaçao / acompanhamento dos mesmo. 
 
-## O que você vai fazer
-[Explique em uma ou duas frases o objetivo deste procedimento no ONGSYS].
+![solicitação_de_pagamento_-_pesquisa.png](/img/ongsys/operacional/solicitação_de_pagamento_-_pesquisa.png)
 
-## Quem pode realizar
-[Informe o perfil de acesso ou a equipe responsável].
-> **Permissão pendente de validação.**
 
-## Antes de começar
-* [ ] Acesso ativo ao ONGSYS.
-* [ ] [Documento ou informação necessária 1].
-* [ ] [Documento ou informação necessária 2].
+Coisa que devemos ter atenção aos nossos processo sao:
 
-## Caminho no sistema
-**Módulo → Menu → Opção**
-> **Pendente de validação:** confirmar este caminho na versão atual do ONGSYS.
+- **ID**	- São Unicos 
+- **Tipo**	- todos de uma categoria
+- **Dcto**	- Geramente o numero do boleto / nota
+- **Empresa**	- Fornecedor em questao 
+- **Vencimento**	- Te ajudara a filtrar bem o que deseja 
+- **Valor** - Pode localizar o que dejeja, mas, pode haver valores identicos!
 
-## Passo a passo
+> sao otimos campos para pesquisa e localização 
+{.is-info}
 
-### Passo 1 — [Nome da Ação Inicial]
-[Explicação detalhada e simples de como iniciar a ação].
-> **PRINT PENDENTE — Capturar a tela de [Nome da Tela], destacando [Elementos].**
-> **Legenda sugerida:** [Texto explicativo da legenda].
-
-### Passo 2 — [Nome da Próxima Ação]
-[Explicação detalhada da próxima ação].
-> **PRINT PENDENTE — Capturar a tela de [Nome da Tela], destacando [Elementos].**
-
-## Resultado esperado
-[Explique como o usuário sabe que o procedimento foi finalizado com sucesso].
-
-## Atenção
-> **Atenção: [Cuidado importante]**
-> [Explique o risco ou cuidado associado ao procedimento].
-
-## Problemas comuns
-* **[Problema 1]:** [Explique a causa e como resolver].
-* **[Problema 2]:** [Explique a causa e como resolver].
 
 ## Precisa de ajuda?
 > **Suporte: Canal de Atendimento**
