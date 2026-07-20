@@ -2,25 +2,25 @@
 title: Cadastro de Fornecedor
 description: Documentação do sistema ONGSYS - CDC
 published: true
-date: 2026-07-15T21:51:06.522Z
+date: 2026-07-20T19:39:40.986Z
 tags: financeiro, ongsys, 05 cadastro de fornecedor
 editor: markdown
 dateCreated: 2026-07-15T21:30:53.512Z
 ---
 
 # Cadastro de Fornecedor
+Todas pessoas inclusive os funcionararios sao interpretados como fornecedores, porem o cadastro e realizado pelo ADM / financeiro, caso seja de um desses setores e tiver dulvida so seguir esse passo a passo.
 
-## O que você vai fazer
-[Explique em uma ou duas frases o objetivo deste procedimento no ONGSYS].
 
 ## Quem pode realizar
-[Informe o perfil de acesso ou a equipe responsável].
-> **Permissão pendente de validação.**
 
-## Antes de começar
-* [ ] Acesso ativo ao ONGSYS.
-* [ ] [Documento ou informação necessária 1].
-* [ ] [Documento ou informação necessária 2].
+> Não tem acesso: Apenas o ADM / Financeiro podem realizar o cadastro.
+{.is-info}
+
+
+## Como entrar em contato com o ADM
+
+
 
 ## Caminho no sistema
 **Módulo → Menu → Opção**
