@@ -2,7 +2,7 @@
 title: Solicitação de Pagamento
 description: Documentação do sistema ONGSYS - CDC
 published: true
-date: 2026-07-20T17:35:52.359Z
+date: 2026-07-20T19:03:49.314Z
 tags: financeiro, ongsys, 01 solicitacao de pagamento
 editor: markdown
 dateCreated: 2026-07-15T21:30:45.304Z
@@ -15,68 +15,78 @@ dateCreated: 2026-07-15T21:30:45.304Z
 
 > No CDC, as solicitações são realizadas principalmente pelos profissionais administrativos dos programas e serviços.
 
+## Antes de começar
+Tenha certeza que tem:
+
+* [ ] Acesso ativo ao ONGSYS (usuario e senha).
+* [ ] Realizizou o alinhamento / treinamento Base.
+* [ ] Ja tem um E-mail intitucional.
+
+> Senao tiver entre em contato com o sua coordenação
+> que a mesma ira providencia os acessos.
+{.is-warning}
+
+
 
 ## O que você vai fazer
 
 Essa e tela do menu | **Controle Financeiro > Contas a Pagar**
+Podera acessar ela pelo menu lateral ao clichar no menu 
+Controle Financeiro em seguida podera visualizar o menu Contas a Pagar.
+
 
 ![meunu_controle_-_financeiro.png](/img/ongsys/operacional/meunu_controle_-_financeiro.png)
 
 
 
-Dostiverssos boteos vamos nos concentrar como realizar a tarefa
+Iniciamento vamos ignorar todos os iconenes menos o o com sinal de +
+vamos nos concentrar como realizar a tarefa de forma objetiva.
 
 
 ![solicitação_de_pagamento_onde_clicar_.png](/img/ongsys/operacional/solicitação_de_pagamento_onde_clicar_.png)
 
-Passo 1 
-Apertamos no nome incluir onde tem um +
-Assimque apertar ira descer um menu com uma opção Contas a pagar.
+
+> Apertamos no nome incluir onde tem um +
+> Assimque apertar ira descer um menu com uma opção Contas a pagar.
+{.is-info}
 
 
 
+## Tela de preenchimento
 
-## Quem pode realizar
-[Informe o perfil de acesso ou a equipe responsável].
-> **Permissão pendente de validação.**
+Sobre o preenchimento sempre havera alguem da gestao orientando os dados que devem 
+preencher, o grande segredo e preencher com a devida atenção.
 
-## Antes de começar
-* [ ] Acesso ativo ao ONGSYS.
-* [ ] [Documento ou informação necessária 1].
-* [ ] [Documento ou informação necessária 2].
+![inclusao_de_contas_a_pagar.png](/img/ongsys/operacional/inclusao_de_contas_a_pagar.png)
 
-## Caminho no sistema
-**Módulo → Menu → Opção**
-> **Pendente de validação:** confirmar este caminho na versão atual do ONGSYS.
 
-## Passo a passo
 
-### Passo 1 — [Nome da Ação Inicial]
-[Explicação detalhada e simples de como iniciar a ação].
-> **PRINT PENDENTE — Capturar a tela de [Nome da Tela], destacando [Elementos].**
-> **Legenda sugerida:** [Texto explicativo da legenda].
+### Fornecedor
 
-### Passo 2 — [Nome da Próxima Ação]
-[Explicação detalhada da próxima ação].
-> **PRINT PENDENTE — Capturar a tela de [Nome da Tela], destacando [Elementos].**
+Selecione o formencedor. Se começar a escrever o nome desejado 
+resultados que contem os caractezes digitados irão aparecer
+facilitando assim a procura filtrando resultados.
 
-## Resultado esperado
-> [Explique como o usuário sabe que o procedimento foi finalizado com sucesso].
-{.is-success}
+
+![solicitação_de_pagamento_-_fornecedo_.png](/img/ongsys/operacional/solicitação_de_pagamento_-_fornecedo_.png)
+
 
 
 ## Atenção
-> **Atenção: [Cuidado importante]**
-> [Explique o risco ou cuidado associado ao procedimento].
+> **Cuidado importante:**
+> Vimos anteriormente que fornecedores podem tem mais de CNPJ
+se o mesmo nao estiver listado por favor fazer o cadastro para que poss
+.
 {.is-warning}
 
 
 ## Problemas comuns
-> **[Problema 1]:** [Explique a causa e como resolver].
+> **Boleto Vs. Nota:** no inicio tera apenas o boleto depois ira precisara ser atualizado com o numero da nota e alterado o tipo de documento..
 {.is-danger}
 
-> **[Problema 2]:** [Explique a causa e como resolver].
+> **Numero do boleto:** Olhe atentamento o ultimos numeros se refletem com valor da solicitação de pagamento geralmente eles devem ser iguais.
 {.is-danger}
+
 
 ## Precisa de ajuda?
 > **Suporte: Canal de Atendimento**
