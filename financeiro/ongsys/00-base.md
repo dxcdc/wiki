@@ -33,3 +33,5 @@ Este nível representa o conhecimento mínimo obrigatório que todos os colabora
 * [13. Boas Práticas](/financeiro/ongsys/00-base/13-boas-praticas) — Cuidados com cadastros e fraudes.
 * [14. Como Solicitar Suporte](/financeiro/ongsys/00-base/14-como-solicitar-suporte) — Reunião de evidências e canais.
 * [15. Glossário](/financeiro/ongsys/00-base/15-glossario) — Termos técnicos comuns.
+* [16. Resumo e Metodologias Visuais](/financeiro/ongsys/00-base/16-resumo-do-treinamento) — Encerramento, resumo e guia de abordagens visuais.
+

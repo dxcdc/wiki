@@ -87,3 +87,57 @@ Quando a escrita estiver concluída e os primeiros rascunhos de todos os níveis
 1. **Padronização de Acessibilidade:** Testar se o tamanho de fonte configurado atende à leitura.
 2. **Revisão Ortográfica Geral:** Substituir quaisquer referências femininas residuais a siglas masculinas (ex: "na CDC" para "no CDC").
 3. **Limpeza de Links:** Verificar se todas as referências cruzadas direcionam para páginas existentes sem gerar caminhos duplicados.
+
+---
+
+## 🎨 5. As 4 Abordagens Visuais (Design da Wiki)
+
+Para guiar a construção visual de cada seção da Wiki de forma padronizada e com propósito didático claro, utilize esta matriz conceitual para escolher e formatar suas imagens, diagramas ou infográficos:
+
+### 1. Infográfico
+* **Objetivo:** Explicar ou ensinar uma tarefa/procedimento de forma visual e sequencializada em poucos passos simples.
+* **Pergunta Central:** *Como eu faço essa tarefa?*
+* **Perguntas que o infográfico deve responder:**
+  * Quais são as etapas de execução da tarefa?
+  * Quais campos e informações preciso preencher?
+  * O que devo conferir antes de salvar/enviar?
+  * Quais erros operacionais devem ser evitados?
+
+### 2. Roadmap ou Mapa de Processo
+* **Objetivo:** Apresentar a jornada macro e o fluxo operacional completo de uma atividade de ponta a ponta, incluindo decisões e interações entre setores.
+* **Pergunta Central:** *Como esse processo acontece de ponta a ponta?*
+* **Perguntas que o roadmap deve responder:**
+  * Qual é o ponto de partida e o resultado final do processo?
+  * Quem participa ou é responsável por cada etapa?
+  * O que acontece depois de cada ação ou aprovação?
+  * Em quais pontos do fluxo podem ocorrer desvios, erros ou devoluções?
+
+### 3. Infonomics (Infonomia)
+* **Objetivo:** Demonstrar o valor estratégico e prático da correta governança e exatidão dos dados inseridos no sistema, mostrando-os como ativos da organização.
+* **Pergunta Central:** *Como essas informações geram valor para a organização?*
+* **Perguntas que a infonomia deve responder:**
+  * Quais dados inseridos no ERP são críticos?
+  * Como essas informações facilitam auditorias e prestação de contas?
+  * De que forma esses dados apoiam o planejamento financeiro e as decisões da diretoria?
+  * Quais riscos reais de retrabalho ou perda de verba o CDC enfrenta se esses dados estiverem incorretos?
+
+### 4. Mapa de Conhecimento
+* **Objetivo:** Visualizar as conexões e a circulação de conhecimento entre pessoas, departamentos, sistemas, bancos de dados e manuais.
+* **Pergunta Central:** *Como pessoas, sistemas, processos e documentos estão conectados?*
+* **Perguntas que o mapa de conhecimento deve responder:**
+  * Qual a origem primária dessa informação e quem é o seu destinatário final?
+  * Em qual repositório ou sistema os dados e arquivos residem?
+  * Em qual seção da Wiki esse processo ou procedimento está detalhado?
+  * Quais áreas do CDC dependem direta ou indiretamente dessa informação?
+
+---
+
+### ⚡ Matriz de Referência Instrucional
+
+| Abordagem | Objetivo Principal | Pergunta Central a Responder |
+| :--- | :--- | :--- |
+| **Infográfico** | Explicar visualmente uma tarefa prática. | *Como eu faço isso?* |
+| **Roadmap** | Mostrar etapas e a jornada de um processo. | *Como esse processo acontece de ponta a ponta?* |
+| **Infonomics** | Demonstrar como a qualidade dos dados gera valor. | *Como essas informações geram valor para a organização?* |
+| **Mapa de Conhecimento** | Conectar pessoas, sistemas e manuais. | *Onde está o conhecimento e como tudo se conecta?* |
+
