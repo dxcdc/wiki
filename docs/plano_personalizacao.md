@@ -23,6 +23,7 @@ Este documento atua como um guia estratégico e roteiro de implementação para 
 5. [Alertas Avançados e Webhooks (Mattermost)](#5-alertas-avancados-e-webhooks-mattermost)
 6. [Mecanismos de Busca Avançada (Meilisearch / Elasticsearch)](#6-mecanismos-de-busca-avancada-meilisearch-elasticsearch)
 7. [Métricas de Uso e Análise de Tráfego](#7-metricas-de-uso-e-analise-de-trafego)
+8. [Agente de IA Conversacional (Mattermost + Dify + Gemini)](#8-agente-de-ia-conversacional-mattermost-dify-gemini)
 
 ---
 
@@ -120,3 +121,26 @@ Monitorar o uso do Wiki.js para saber quais artigos são mais lidos, quais termo
 - **Plataformas Sugeridas:**
   - **Matomo / Plausible:** Soluções open-source focadas em privacidade que podem ser hospedadas diretamente em Docker na infraestrutura do CDC.
   - **Google Analytics:** Padrão de mercado para rastreamento de uso básico.
+
+---
+
+## 8. Agente de IA Conversacional (Mattermost + Dify + Gemini)
+
+### Objetivo:
+Permitir que os colaboradores consultem instantaneamente as diretrizes, procedimentos e manuais operacionais do CDC enviando perguntas em linguagem natural diretamente no chat corporativo (Mattermost), eliminando buscas manuais demoradas.
+
+### Arquitetura de Integração:
+1. **Dify (Container VPS):** Plataforma de orquestração de IA hospedada na VPS por Docker. Ele lê a pasta de Markdowns (`pt-br/`) da Wiki sincronizada pelo Git, realiza o fatiamento e a vetorização (busca semântica RAG) e gerencia as conversas.
+2. **Google AI Studio (Gemini 1.5 Flash):** Motor de inteligência que analisa os documentos fornecidos pelo Dify e formula as respostas aos colaboradores.
+3. **Mattermost Integration:** Gatilho de mensagens de saída (Outgoing Webhook) no chat direcionando para a API do Dify, e retorno das respostas via Webhook de entrada.
+
+### Mecanismos de Controle de Uso e Segurança (Prevenção de Abuso):
+Para evitar consumo excessivo de cotas da API, loops de chamados e cobranças surpresas no cartão, o sistema implementará as seguintes travas físicas:
+
+* **Limitação de Requisições por Usuário (Dify Rate Limiting):**
+  Configurar na interface do Dify uma cota diária por IP ou usuário do Mattermost. Exemplo: no máximo **10 perguntas por hora** ou **50 perguntas por dia** por colaborador.
+* **Bloqueio de Gastos (Plano Gratuito Google):**
+  Durante a fase de testes, o uso de chaves gratuitas do Google AI Studio impede fisicamente faturamentos indesejados. O limite é apenas de taxa de requisições por minuto (15 RPM). Caso excedido, a API temporariamente retorna um código HTTP 429 sem tarifação.
+* **Teto Financeiro Rígido (Google Cloud):**
+  Se for ativado o plano pago (Pay-as-you-go) para alta performance, será configurada uma cota orçamentária rígida no painel Google Cloud Console (ex: teto máximo de **R$ 10,00 mensais**), com o desligamento automático imediato do tráfego da API ao atingir 100% do valor.
+
