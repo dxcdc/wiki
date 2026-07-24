@@ -1,0 +1,129 @@
+name: Automacão de Backlog de Issues
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+permissions:
+  issues: write
+  contents: read
+
+jobs:
+  criar-issues:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout do Repositório
+        uses: actions/checkout@v4
+
+      - name: Processar e Criar Issues no GitHub
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          # Função para verificar existência e criar issue
+          create_issue_if_not_exists() {
+            local title="$1"
+            local body="$2"
+            local labels="$3"
+
+            echo "=================================================="
+            echo "Verificando se a issue já existe: $title"
+            
+            # Buscar issues (abertas ou fechadas) com o título exato no repositório
+            local count
+            count=$(gh issue list --repo "${{ github.repository }}" --search "title:\"$title\"" --state all --json number --jq 'length')
+
+            if [ "$count" -eq 0 ]; then
+              echo "Nenhuma issue encontrada. Criando nova issue..."
+              gh issue create --repo "${{ github.repository }}" \
+                              --title "$title" \
+                              --body "$body" \
+                              --label "$labels"
+            else
+              echo "A issue '$title' já existe (ou foi encerrada). Ignorando criação."
+            fi
+          }
+
+          # --- DEFINIÇÃO DAS ISSUES ---
+
+          # ISSUE 1: Implantação do Dify
+          TITLE_1="[ARCH] Implantar Dify no Easypanel para base de conhecimento de IA"
+          LABELS_1="infraestrutura,inteligência-artificial,backlog"
+          read -r -d '' BODY_1 << 'EOF' || true
+          ### 📄 Descrição da Task
+          Subir uma instância do **Dify** na VPS utilizando o Docker Compose oficial no Easypanel. O objetivo é criar a base vetorial (RAG) que indexará os arquivos Markdown da Wiki (`pt-br/`) e conectá-la ao modelo de linguagem Gemini.
+
+          ### 🛠️ Critérios de Aceite
+          - [ ] Criar um novo serviço no Easypanel selecionando a opção de importação de **Docker Compose**.
+          - [ ] Utilizar a receita oficial do Dify configurando volumes persistentes para o PostgreSQL e Redis.
+          - [ ] Configurar um subdomínio reverso no Traefik (ex: `dify.cdc.org.br`) com certificado SSL ativo.
+          - [ ] Acessar o painel do Dify e cadastrar a conta de administrador corporativa.
+          - [ ] Criar a chave de API do Gemini no **Google AI Studio** e conectá-la no painel do Dify.
+          - [ ] Criar um conjunto de dados (Knowledge Base) no Dify fazendo upload da pasta Git de Markdowns (`pt-br/`).
+
+          ### 🔗 Referências
+          - [Plano de Personalização - Seção 8](https://github.com/${{ github.repository }}/blob/main/docs/plano_personalizacao.md#8-agente-de-ia-conversacional-mattermost-dify-gemini)
+          - [Guia Geral de IA e Boas Práticas](https://github.com/${{ github.repository }}/blob/main/docs/prompt_ia_boas_praticas.md)
+          EOF
+
+          # ISSUE 2: Integração com Mattermost
+          TITLE_2="[FEAT] Integrar Agente do Dify com o Mattermost e configurar limites"
+          LABELS_2="integração,chat,segurança"
+          read -r -d '' BODY_2 << 'EOF' || true
+          ### 📄 Descrição da Task
+          Conectar o aplicativo de chat criado no Dify com o Mattermost da organização utilizando webhooks de entrada e saída. A integração deve conter regras ativas de proteção e limites de uso (rate limiting) por colaborador.
+
+          ### 🛠️ Critérios de Aceite
+          - [ ] Criar um aplicativo do tipo *Chat/Assistant* no painel do Dify.
+          - [ ] No Mattermost, criar um *Gatilho de Saída (Outgoing Webhook)* que escuta menções ao bot (ex: `@WikiBot`) no canal de suporte.
+          - [ ] Configurar o webhook do Mattermost para enviar o texto da mensagem à API do Dify.
+          - [ ] No Dify, cadastrar a URL do webhook de entrada do Mattermost (`https://chat.cdc.org.br/hooks/i86go91iwb8emp8cwt4do79eqw`) para devolver as respostas.
+          - [ ] **Configurar limite no Dify:** Definir um limite máximo de **10 perguntas por hora** ou **50 perguntas por dia** por colaborador para evitar consumo de cotas.
+
+          ### 🔗 Referências
+          - [Plano de Personalização - Seção 8](https://github.com/${{ github.repository }}/blob/main/docs/plano_personalizacao.md#8-agente-de-ia-conversacional-mattermost-dify-gemini)
+          EOF
+
+          # ISSUE 3: Polimento de Conteúdo
+          TITLE_3="[DOCS] Revisão de ortografia, concordância de gênero e imagens"
+          LABELS_3="documentação,qualidade"
+          read -r -d '' BODY_3 << 'EOF' || true
+          ### 📄 Descrição da Task
+          Realizar uma revisão fina nas páginas do **Nível Base / Integração** para garantir a qualidade de leitura, corrigir concordâncias de termos e ajustar links de imagens para evitar falhas de carregamento.
+
+          ### 🛠️ Critérios de Aceite
+          - [ ] **Sigla CDC:** Fazer varredura manual de revisão fina para certificar que todas as referências usem concordância masculina (ex: "no CDC", "do CDC", "pelo CDC").
+          - [ ] **Links de Imagens:** Garantir que todos os prints inseridos comecem com o prefixo `/assets/` (ex: `![](/assets/img/...)`) para não quebrarem na renderização estática do Wiki.js.
+          - [ ] **Modelo Híbrido:** Revisar os tutoriais práticos de cliques e telas e remover perguntas de reflexão escolar deles, movendo as perguntas retóricas de contexto apenas para as seções introdutórias dos capítulos.
+
+          ### 🔗 Referências
+          - [Análise Crítica e Diretrizes Técnicas](https://github.com/${{ github.repository }}/blob/main/docs/analise_critica_wiki_ongsys.md)
+          - [Guia Geral de IA e Boas Práticas](https://github.com/${{ github.repository }}/blob/main/docs/prompt_ia_boas_praticas.md)
+          EOF
+
+          # ISSUE 4: Notificação de Backup no Chat
+          TITLE_4="[CONFIG] Integrar webhook de backup Mattermost no script bash da VPS"
+          LABELS_4="infraestrutura,segurança,alertas"
+          read -r -d '' BODY_4 << 'EOF' || true
+          ### 📄 Descrição da Task
+          Configurar o script de backup automático da VPS (`backup.sh`) para realizar disparos para o canal do Mattermost via webhook de entrada, reportando se a rotina diária foi realizada com sucesso ou se houve falhas críticas.
+
+          ### 🛠️ Critérios de Aceite
+          - [ ] Abrir o script `backup.sh` na VPS.
+          - [ ] Habilitar o parâmetro `MATTERMOST_ENABLED=true` e mapear a variável de ambiente `MATTERMOST_WEBHOOK_URL` apontando para o webhook público: `https://chat.cdc.org.br/hooks/i86go91iwb8emp8cwt4do79eqw`.
+          - [ ] Inserir os disparos de `curl` ao final da execução:
+            - Disparar mensagem de sucesso 🟢 contendo a data, tamanho do arquivo compactado e hash SHA-256.
+            - Disparar mensagem de falha 🔴 contendo o código do erro gerado caso o dump do PostgreSQL ou upload ao Drive falhem.
+          - [ ] Executar um teste manual de backup para validar o recebimento do alerta no chat.
+
+          ### 🔗 Referências
+          - [Política de Backup do Sistema](https://github.com/${{ github.repository }}/blob/main/docs/politica_backup.md)
+          - [Ajuda de Infraestrutura - Mattermost](https://github.com/${{ github.repository }}/blob/main/docs/ajuda_infra.md#integra%C3%A7%C3%A3o-com-mattermost)
+          EOF
+
+          # --- EXECUÇÃO DA CRIAÇÃO ---
+          create_issue_if_not_exists "$TITLE_1" "$BODY_1" "$LABELS_1"
+          create_issue_if_not_exists "$TITLE_2" "$BODY_2" "$LABELS_2"
+          create_issue_if_not_exists "$TITLE_3" "$BODY_3" "$LABELS_3"
+          create_issue_if_not_exists "$TITLE_4" "$BODY_4" "$LABELS_4"
